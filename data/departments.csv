@@ -1,0 +1,21 @@
+department_id,department_name,category,avg_staff_count,cost_per_day_sar
+D001,Emergency Medicine,Critical Care,45,2800
+D002,Internal Medicine,Medical,35,1500
+D003,General Surgery,Surgical,30,3200
+D004,Orthopedics,Surgical,25,2900
+D005,Cardiology,Medical,28,3500
+D006,Pediatrics,Medical,32,1800
+D007,Obstetrics & Gynecology,Surgical,30,2200
+D008,Oncology,Medical,22,4500
+D009,Neurology,Medical,20,3000
+D010,Radiology,Diagnostic,18,1200
+D011,Pathology & Laboratory,Diagnostic,15,800
+D012,ICU,Critical Care,40,5500
+D013,Ophthalmology,Surgical,15,2000
+D014,Dermatology,Medical,12,900
+D015,Psychiatry,Medical,18,1100
+D016,Nephrology,Medical,16,3800
+D017,Pulmonology,Medical,14,2600
+D018,ENT,Surgical,12,1600
+D019,Rehabilitation,Support,20,1000
+D020,Dental,Support,10,700

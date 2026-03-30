@@ -1,0 +1,401 @@
+staff_id,first_name,last_name,gender,nationality,role,department_id,hospital_id,hire_date,experience_years,monthly_salary_sar,certification,employment_status
+STF0001,Mary Jane,Torres,Female,Filipino,Nurse,D016,H004,2017-12-16,12,13500,Diploma,Active
+STF0002,Ghada,Al-Khathami,Female,Saudi,Technician,D001,H009,2014-04-15,10,12000,BSN,Active
+STF0003,Yousef,Al-Harithi,Male,Saudi,Doctor,D016,H008,2010-05-22,14,39500,PhD,Active
+STF0004,Afnan,Al-Khaldi,Female,Saudi,Nurse,D016,H009,2021-11-28,4,17000,Diploma,Active
+STF0005,Michelle,Lopez,Female,Filipino,Nurse,D009,H004,2012-09-15,15,13000,BSN,Resigned
+STF0006,Roberto,Torres,Male,Filipino,Specialist,D007,H004,2020-11-10,4,39500,Masters,Active
+STF0007,Rania,Al-Malki,Female,Saudi,Administrator,D012,H003,2016-10-12,8,11500,Masters,Active
+STF0008,Maha,Al-Khathami,Female,Saudi,Nurse,D010,H012,2012-10-31,14,16000,BSN,Active
+STF0009,Marites,Castillo,Female,Filipino,Specialist,D015,H006,2014-02-19,20,28500,PhD,Active
+STF0010,Divya,Bhat,Female,Indian,Doctor,D003,H010,2024-02-13,3,35000,Fellowship,Active
+STF0011,Sultan,Al-Johani,Male,Saudi,Nurse,D004,H009,2019-05-03,7,11500,Masters,Active
+STF0012,Ravi,Iyer,Male,Indian,Doctor,D019,H007,2016-11-06,10,29000,Board Certified,Resigned
+STF0013,Saleh,Al-Enazi,Male,Saudi,Doctor,D003,H003,2015-05-19,9,30000,Fellowship,Active
+STF0014,Sameh,Ragheb,Male,Egyptian,Doctor,D010,H001,2015-03-12,9,43500,PhD,Active
+STF0015,Aya,Metwally,Female,Egyptian,Nurse,D007,H007,2012-07-29,14,10500,Diploma,Active
+STF0016,Fatima,Mirza,Female,Pakistani,Nurse,D010,H010,2022-10-07,9,15000,BSN,Active
+STF0017,Mashael,Al-Yami,Female,Saudi,Administrator,D017,H009,2021-01-28,4,12000,Diploma,Active
+STF0018,Haneen,Al-Enazi,Female,Saudi,Doctor,D001,H002,2015-02-19,19,62500,Board Certified,Resigned
+STF0019,Ghada,Al-Murshidi,Female,Saudi,Specialist,D002,H013,2013-12-06,12,41500,PhD,Active
+STF0020,Hussain,Al-Ruwaili,Male,Saudi,Doctor,D016,H002,2020-07-17,5,47000,Residency Completed,Active
+STF0021,Carlo,Ramos,Male,Filipino,Specialist,D014,H012,2021-02-10,3,33000,Board Certified,Active
+STF0022,Waleed,Al-Saleh,Male,Saudi,Doctor,D004,H013,2019-01-25,12,25000,PhD,Active
+STF0023,Angelo,Villanueva,Male,Filipino,Administrator,D020,H013,2021-03-07,5,13000,Diploma,Active
+STF0024,Nawaf,Al-Shammari,Male,Saudi,Specialist,D015,H015,2020-11-14,4,40500,Fellowship,On Leave
+STF0025,Ali,Al-Otaibi,Male,Saudi,Doctor,D018,H007,2012-02-03,12,32500,PhD,Active
+STF0026,Huda,Al-Shahrani,Female,Saudi,Nurse,D010,H009,2016-02-18,9,16000,Diploma,Active
+STF0027,Saud,Al-Turki,Male,Saudi,Administrator,D007,H015,2023-06-12,3,14000,Masters,Active
+STF0028,Talal,Al-Fahad,Male,Saudi,Specialist,D017,H005,2010-01-22,14,30000,PhD,Active
+STF0029,Wasim,Qureshi,Male,Pakistani,Doctor,D011,H009,2022-03-10,3,46000,Fellowship,Active
+STF0030,Mais,Batayneh,Female,Jordanian,Nurse,D014,H001,2017-02-19,10,14000,Diploma,Active
+STF0031,Joy,Castillo,Female,Filipino,Doctor,D002,H003,2021-04-07,13,47000,Board Certified,Active
+STF0032,Fernando,Bautista,Male,Filipino,Specialist,D001,H012,2013-03-26,12,41500,Fellowship,Active
+STF0033,Michelle,Ramos,Female,Filipino,Nurse,D020,H012,2018-12-01,8,13500,Masters,Active
+STF0034,Najla,Al-Shahrani,Female,Saudi,Nurse,D018,H001,2023-11-07,1,12500,BSN,Resigned
+STF0035,Faisal,Al-Harbi,Male,Saudi,Administrator,D015,H003,2016-09-19,15,7500,BSN,Active
+STF0036,Rakan,Al-Ruwaili,Male,Saudi,Specialist,D005,H004,2021-11-30,4,42500,Fellowship,Active
+STF0037,Junaid,Aslam,Male,Pakistani,Doctor,D013,H010,2015-05-27,10,63000,Fellowship,Active
+STF0038,Pradeep,Agarwal,Male,Indian,Doctor,D009,H011,2010-03-18,21,55500,Residency Completed,Active
+STF0039,Khalid,Al-Saadi,Male,Saudi,Specialist,D012,H010,2016-09-16,10,34000,Masters,Active
+STF0040,Marco,Aquino,Male,Filipino,Nurse,D016,H002,2015-04-28,10,14000,Masters,Active
+STF0041,Mohannad,Al-Masri,Male,Jordanian,Nurse,D013,H005,2010-03-08,16,9000,Masters,Resigned
+STF0042,Vivek,Nair,Male,Indian,Specialist,D020,H013,2017-11-26,7,26000,Masters,Active
+STF0043,Joy,Garcia,Female,Filipino,Specialist,D002,H005,2019-11-21,5,32000,Fellowship,Active
+STF0044,Rami,Jaradat,Male,Jordanian,Nurse,D014,H003,2014-07-03,10,17000,Diploma,Active
+STF0045,Ghada,Al-Rashidi,Female,Saudi,Nurse,D009,H015,2020-10-22,14,13000,Masters,Active
+STF0046,Essam,Ibrahim,Male,Egyptian,Nurse,D005,H013,2015-01-23,16,14500,Masters,Active
+STF0047,Antonio,Santos,Male,Filipino,Specialist,D009,H009,2012-10-09,13,42000,Masters,Active
+STF0048,Naif,Al-Khaldi,Male,Saudi,Technician,D004,H011,2015-03-31,10,11000,Residency Completed,Active
+STF0049,Heba,Ibrahim,Female,Egyptian,Doctor,D015,H015,2016-10-11,10,32500,Fellowship,Active
+STF0050,Majed,Al-Shahrani,Male,Saudi,Nurse,D004,H002,2015-04-08,16,10000,Diploma,Active
+STF0051,Moath,Al-Asiri,Male,Saudi,Specialist,D014,H010,2013-06-19,18,41500,Board Certified,Active
+STF0052,Ghada,Al-Ghamdi,Female,Saudi,Specialist,D012,H004,2019-12-12,6,27500,Masters,Active
+STF0053,Nourhan,Barakat,Female,Egyptian,Administrator,D012,H001,2018-12-06,6,15000,Diploma,Active
+STF0054,Wafa,Al-Sulami,Female,Saudi,Nurse,D001,H001,2017-06-25,7,10000,Masters,Active
+STF0055,Jocelyn,Rivera,Female,Filipino,Nurse,D019,H004,2015-03-24,10,10500,Masters,Active
+STF0056,Saud,Al-Subaie,Male,Saudi,Administrator,D018,H005,2013-11-30,11,14000,Diploma,Active
+STF0057,Eman,Al-Qurashi,Female,Saudi,Nurse,D011,H001,2013-11-28,11,10000,Masters,Active
+STF0058,Haya,Al-Harithi,Female,Saudi,Nurse,D015,H013,2018-02-13,8,10000,Diploma,Active
+STF0059,Tamara,Al-Masri,Female,Jordanian,Nurse,D017,H005,2020-04-10,6,8500,BSN,Active
+STF0060,Rana,Abdel-Fattah,Female,Egyptian,Doctor,D016,H012,2019-12-13,5,30500,Residency Completed,Active
+STF0061,Amal,Al-Yami,Female,Saudi,Nurse,D020,H011,2023-02-17,3,13500,Diploma,Active
+STF0062,Dana,Qudah,Female,Jordanian,Nurse,D020,H007,2012-03-23,17,10000,Masters,Active
+STF0063,Samar,Al-Anazi,Female,Saudi,Doctor,D014,H008,2015-02-15,10,54500,PhD,Active
+STF0064,Najla,Al-Ruwaili,Female,Saudi,Specialist,D011,H011,2015-09-20,10,25000,PhD,Active
+STF0065,Lama,Al-Dosari,Female,Saudi,Nurse,D014,H002,2018-05-11,11,17000,BSN,Active
+STF0066,Samar,Al-Fahad,Female,Saudi,Doctor,D004,H007,2017-12-06,14,52500,Board Certified,Active
+STF0067,Nourhan,Abdel-Fattah,Female,Egyptian,Specialist,D019,H009,2014-10-09,10,36000,Fellowship,Active
+STF0068,Ali,Al-Khaldi,Male,Saudi,Administrator,D004,H013,2016-04-01,10,13500,PhD,Active
+STF0069,Thamer,Al-Thaqafi,Male,Saudi,Nurse,D018,H001,2023-08-29,8,12500,BSN,Active
+STF0070,Majed,Al-Fahad,Male,Saudi,Administrator,D012,H001,2014-01-26,17,11500,PhD,Active
+STF0071,Maria,Cruz,Female,Filipino,Nurse,D017,H004,2018-06-09,7,13500,BSN,Active
+STF0072,Nourhan,Metwally,Female,Egyptian,Nurse,D020,H002,2011-03-07,13,9000,Masters,Active
+STF0073,Rawabi,Al-Shahrani,Female,Saudi,Nurse,D020,H008,2019-04-16,5,16500,BSN,Active
+STF0074,Rania,Al-Qurashi,Female,Saudi,Nurse,D016,H009,2016-12-01,8,14500,Masters,Active
+STF0075,Wael,Soliman,Male,Egyptian,Administrator,D005,H013,2015-09-25,9,8000,Diploma,Active
+STF0076,Yasmin,Mostafa,Female,Egyptian,Specialist,D013,H009,2015-03-01,11,42000,Masters,Active
+STF0077,Suresh,Joshi,Male,Indian,Doctor,D001,H008,2011-09-30,20,62500,PhD,Active
+STF0078,Lina,Al-Shammari,Female,Saudi,Nurse,D004,H007,2010-06-20,24,11000,Masters,Active
+STF0079,Deema,Al-Dosari,Female,Saudi,Doctor,D014,H014,2012-05-17,12,63500,PhD,Active
+STF0080,Majed,Al-Fahad,Male,Saudi,Specialist,D008,H006,2013-10-09,11,40500,Board Certified,Active
+STF0081,Basmah,Al-Dawsari,Female,Saudi,Nurse,D005,H004,2012-04-22,12,11000,BSN,Active
+STF0082,Abdulmajeed,Al-Shehri,Male,Saudi,Doctor,D006,H013,2024-02-01,1,62000,PhD,Active
+STF0083,Farida,Moussa,Female,Egyptian,Doctor,D011,H014,2024-01-26,1,54000,Board Certified,Active
+STF0084,Christine,Flores,Female,Filipino,Nurse,D019,H001,2017-11-23,9,13000,Diploma,Active
+STF0085,Rowena,Lopez,Female,Filipino,Nurse,D003,H011,2012-01-10,14,16500,Diploma,Active
+STF0086,Fatima,Al-Saadi,Female,Saudi,Nurse,D019,H011,2014-03-23,11,16000,Masters,Active
+STF0087,Joud,Al-Harbi,Female,Saudi,Doctor,D011,H012,2011-11-22,15,36500,Board Certified,Active
+STF0088,Joud,Al-Thubaiti,Female,Saudi,Doctor,D017,H010,2013-07-24,12,43500,PhD,Active
+STF0089,Haneen,Al-Zahrani,Female,Saudi,Technician,D011,H002,2017-05-24,7,11500,BSN,Active
+STF0090,Bader,Al-Sulami,Male,Saudi,Doctor,D005,H006,2011-10-30,15,34500,Residency Completed,Active
+STF0091,Lorna,Mendoza,Female,Filipino,Doctor,D020,H012,2011-11-26,14,49500,Residency Completed,Active
+STF0092,Rosalinda,Cruz,Female,Filipino,Specialist,D014,H009,2018-02-12,6,30000,Fellowship,Active
+STF0093,Hisham,Soliman,Male,Egyptian,Technician,D008,H003,2013-06-23,11,13000,Diploma,Active
+STF0094,Dina,Al-Ghamdi,Female,Saudi,Doctor,D011,H015,2023-11-11,1,49500,Fellowship,Active
+STF0095,Nada,Al-Saadi,Female,Saudi,Nurse,D002,H007,2018-03-04,9,12000,Diploma,Active
+STF0096,Anas,Al-Malki,Male,Saudi,Specialist,D018,H004,2016-12-10,18,35500,Fellowship,Active
+STF0097,Yara,Al-Saadi,Female,Saudi,Technician,D015,H013,2016-04-27,13,10000,Residency Completed,Active
+STF0098,Hira,Mirza,Female,Pakistani,Doctor,D020,H003,2015-08-11,9,56500,Residency Completed,Active
+STF0099,Swati,Chandra,Female,Indian,Doctor,D004,H005,2011-11-19,18,43000,PhD,Active
+STF0100,Muhannad,Al-Dosari,Male,Saudi,Administrator,D008,H014,2020-02-13,11,14500,Diploma,Active
+STF0101,Hani,Al-Khaldi,Male,Saudi,Administrator,D008,H007,2011-10-31,14,7000,BSN,Active
+STF0102,Abdulmajeed,Al-Fahad,Male,Saudi,Nurse,D005,H003,2010-11-10,14,15500,Masters,Active
+STF0103,Dana,Al-Rawashdeh,Female,Jordanian,Administrator,D020,H001,2011-10-12,13,9000,Masters,Active
+STF0104,Revathi,Chandra,Female,Indian,Technician,D014,H002,2016-06-18,8,7000,Diploma,Active
+STF0105,Roberto,Del Rosario,Male,Filipino,Doctor,D015,H002,2012-06-27,17,58000,Board Certified,Active
+STF0106,Yousef,Al-Tamimi,Male,Saudi,Administrator,D010,H007,2010-01-13,16,9000,PhD,Active
+STF0107,Lama,Al-Thubaiti,Female,Saudi,Doctor,D012,H002,2021-10-19,5,58500,Board Certified,Active
+STF0108,Ana,Aquino,Female,Filipino,Doctor,D012,H005,2010-05-14,15,29500,Residency Completed,Active
+STF0109,Reem,Al-Qurashi,Female,Saudi,Doctor,D011,H003,2010-12-30,15,47000,Fellowship,Resigned
+STF0110,Marites,Torres,Female,Filipino,Nurse,D005,H002,2020-04-07,4,11500,BSN,Active
+STF0111,Pooja,Iyer,Female,Indian,Doctor,D017,H007,2022-03-07,3,27500,Fellowship,Active
+STF0112,Ayesha,Aslam,Female,Pakistani,Nurse,D011,H005,2012-10-16,17,15000,Diploma,Resigned
+STF0113,Shahad,Al-Fahad,Female,Saudi,Nurse,D006,H008,2021-02-27,4,16500,Diploma,Active
+STF0114,Anita,Joshi,Female,Indian,Doctor,D020,H014,2014-01-18,12,46000,Board Certified,Active
+STF0115,Hamad,Al-Khalidi,Male,Saudi,Technician,D015,H010,2019-07-23,5,9500,BSN,Active
+STF0116,Mansour,Al-Thaqafi,Male,Saudi,Administrator,D014,H005,2024-05-05,10,15000,Diploma,Active
+STF0117,Mashael,Al-Khaldi,Female,Saudi,Doctor,D017,H013,2013-08-03,21,34500,PhD,Active
+STF0118,Jasmine,Villanueva,Female,Filipino,Nurse,D012,H007,2022-09-21,2,10500,Masters,Active
+STF0119,Sherif,Tawfik,Male,Egyptian,Nurse,D003,H010,2013-02-01,13,14500,Diploma,Active
+STF0120,Turki,Al-Qahtani,Male,Saudi,Doctor,D006,H008,2021-08-12,4,62000,Board Certified,Active
+STF0121,Swati,Agarwal,Female,Indian,Administrator,D007,H010,2016-05-28,11,11000,Masters,Active
+STF0122,Haya,Al-Saadi,Female,Saudi,Nurse,D006,H015,2019-12-26,15,13000,Masters,Active
+STF0123,Elena,Martin,Female,Other,Nurse,D010,H015,2016-09-23,15,11000,Diploma,Active
+STF0124,Ramesh,Gupta,Male,Indian,Doctor,D008,H013,2021-01-30,3,61500,Residency Completed,Active
+STF0125,Samar,Al-Subaie,Female,Saudi,Doctor,D020,H015,2011-12-08,13,51000,PhD,Active
+STF0126,Lina,Al-Murshidi,Female,Saudi,Nurse,D003,H003,2017-02-10,9,15500,Diploma,Active
+STF0127,Amal,Al-Khathami,Female,Saudi,Nurse,D019,H003,2012-11-23,13,9000,BSN,Active
+STF0128,Omar,Al-Rashidi,Male,Saudi,Doctor,D011,H015,2015-01-22,10,59000,Residency Completed,Active
+STF0129,Naif,Al-Khathami,Male,Saudi,Administrator,D009,H003,2024-01-08,1,11500,Diploma,Active
+STF0130,Emilio,Manalo,Male,Filipino,Doctor,D005,H003,2024-01-03,3,64500,Residency Completed,Active
+STF0131,Sara,Al-Dosari,Female,Saudi,Nurse,D002,H011,2022-12-08,2,11500,Masters,Active
+STF0132,Maria,Castillo,Female,Filipino,Specialist,D018,H005,2024-05-25,10,36000,Fellowship,Active
+STF0133,Divina,Cruz,Female,Filipino,Nurse,D002,H003,2019-11-11,6,15500,BSN,Active
+STF0134,Tariq,Al-Saleh,Male,Saudi,Doctor,D012,H007,2012-12-07,17,58500,Board Certified,Active
+STF0135,Mostafa,Naguib,Male,Egyptian,Administrator,D015,H004,2013-02-28,11,9500,PhD,Active
+STF0136,Laura,Anderson,Female,Other,Nurse,D019,H012,2017-01-05,7,10500,Diploma,Active
+STF0137,Salwa,Al-Shahrani,Female,Saudi,Nurse,D001,H002,2018-10-27,8,12000,BSN,Active
+STF0138,Ayesha,Sheikh,Female,Pakistani,Nurse,D016,H010,2020-07-22,4,8000,BSN,Active
+STF0139,Waleed,Al-Khaldi,Male,Saudi,Technician,D013,H006,2011-01-06,14,10500,Residency Completed,Active
+STF0140,Adnan,Ahmed,Male,Pakistani,Specialist,D013,H009,2020-02-07,9,29000,Board Certified,Active
+STF0141,Karim,Fawzy,Male,Egyptian,Nurse,D011,H009,2018-03-15,11,11500,Masters,Active
+STF0142,Fatima,Al-Ghamdi,Female,Saudi,Nurse,D002,H003,2017-06-21,12,16500,Diploma,Active
+STF0143,Basma,Al-Subaie,Female,Saudi,Specialist,D011,H015,2023-10-02,2,33000,Masters,Active
+STF0144,Basma,Al-Asiri,Female,Saudi,Nurse,D016,H012,2022-08-17,2,8500,Diploma,Active
+STF0145,Mais,Al-Habashneh,Female,Jordanian,Administrator,D010,H013,2024-02-11,1,11000,BSN,Active
+STF0146,Doaa,Metwally,Female,Egyptian,Technician,D019,H004,2011-02-25,15,7500,Residency Completed,Active
+STF0147,Shahad,Al-Tamimi,Female,Saudi,Nurse,D008,H001,2022-11-04,9,10000,BSN,Active
+STF0148,Lina,Al-Tamimi,Female,Saudi,Nurse,D014,H012,2014-07-29,11,15500,Masters,On Leave
+STF0149,Nawaf,Al-Thubaiti,Male,Saudi,Administrator,D007,H009,2017-04-16,17,11000,PhD,Active
+STF0150,Wasim,Iqbal,Male,Pakistani,Nurse,D011,H009,2017-12-12,10,12500,Masters,Active
+STF0151,Yousef,Al-Yami,Male,Saudi,Doctor,D018,H005,2015-01-17,16,44500,Residency Completed,On Leave
+STF0152,Marites,Ramos,Female,Filipino,Nurse,D016,H006,2022-07-28,9,12500,Diploma,Active
+STF0153,Ahmed,Al-Turki,Male,Saudi,Doctor,D013,H014,2017-09-28,17,34500,Residency Completed,Active
+STF0154,Sultan,Al-Dawsari,Male,Saudi,Specialist,D015,H011,2015-10-02,12,27000,Fellowship,Active
+STF0155,Ali,Al-Yami,Male,Saudi,Technician,D005,H002,2023-10-23,4,8000,Diploma,Active
+STF0156,Dina,Al-Malki,Female,Saudi,Doctor,D008,H001,2012-03-31,13,56000,Board Certified,Active
+STF0157,Mohammed,Al-Khathami,Male,Saudi,Nurse,D006,H007,2020-09-01,5,11500,Diploma,Active
+STF0158,Maha,Al-Dosari,Female,Saudi,Nurse,D019,H004,2022-01-01,6,8500,BSN,Active
+STF0159,Nasser,Al-Ghamdi,Male,Saudi,Nurse,D013,H013,2021-02-10,3,12500,BSN,Active
+STF0160,Mohan,Singh,Male,Indian,Doctor,D011,H005,2020-03-11,14,60500,PhD,Active
+STF0161,Gabriel,Flores,Male,Filipino,Nurse,D007,H013,2012-07-11,13,15500,Masters,Active
+STF0162,Noura,Al-Fahad,Female,Saudi,Technician,D010,H010,2014-05-02,10,13000,Residency Completed,Active
+STF0163,Lakshmi,Pillai,Female,Indian,Doctor,D003,H007,2012-02-21,12,34000,PhD,Active
+STF0164,Priya,Menon,Female,Indian,Doctor,D013,H004,2020-01-08,9,46500,Residency Completed,Active
+STF0165,Noura,Al-Enazi,Female,Saudi,Doctor,D012,H012,2015-04-20,9,32500,PhD,Active
+STF0166,Basma,Al-Khalidi,Female,Saudi,Nurse,D004,H011,2016-08-13,9,11500,BSN,Active
+STF0167,Rashed,Al-Sulami,Male,Saudi,Specialist,D012,H007,2022-04-27,9,45000,Fellowship,Resigned
+STF0168,Salman,Al-Dosari,Male,Saudi,Administrator,D017,H008,2021-11-05,6,7500,Diploma,Active
+STF0169,Basma,Al-Balawi,Female,Saudi,Specialist,D019,H009,2013-05-12,11,37000,PhD,Active
+STF0170,Farah,Akhtar,Female,Pakistani,Administrator,D003,H015,2021-06-12,4,7500,PhD,Active
+STF0171,Lamia,Al-Murshidi,Female,Saudi,Nurse,D002,H009,2020-05-15,7,13000,Masters,Active
+STF0172,Lina,Jaradat,Female,Jordanian,Nurse,D007,H010,2011-08-22,13,13500,Masters,Active
+STF0173,Suresh,Kumar,Male,Indian,Doctor,D016,H001,2016-06-09,9,34000,PhD,Active
+STF0174,Shahad,Al-Saadi,Female,Saudi,Doctor,D013,H007,2011-10-20,16,60500,Fellowship,Active
+STF0175,Hamza,Al-Tarawneh,Male,Jordanian,Nurse,D018,H007,2021-11-11,3,11500,BSN,Resigned
+STF0176,Miguel,Bautista,Male,Filipino,Doctor,D018,H007,2021-12-06,4,40000,Fellowship,Active
+STF0177,Saad,Al-Balawi,Male,Saudi,Specialist,D004,H001,2019-05-28,7,20500,Fellowship,Active
+STF0178,Remedios,Reyes,Female,Filipino,Nurse,D015,H010,2011-02-03,13,8500,Diploma,Active
+STF0179,Wafa,Al-Zahrani,Female,Saudi,Nurse,D005,H009,2016-06-27,8,17500,Diploma,Active
+STF0180,Renato,Ramos,Male,Filipino,Doctor,D008,H005,2013-03-19,21,59000,Fellowship,Active
+STF0181,Jose,Soriano,Male,Filipino,Technician,D019,H015,2013-12-05,13,9500,Residency Completed,Active
+STF0182,Basmah,Al-Turki,Female,Saudi,Nurse,D017,H006,2019-05-04,6,13000,Diploma,Active
+STF0183,Meena,Nair,Female,Indian,Specialist,D008,H005,2013-03-28,16,22000,PhD,Active
+STF0184,Carlo,Aquino,Male,Filipino,Doctor,D008,H005,2014-07-24,11,30000,PhD,Active
+STF0185,Hadeer,Soliman,Female,Egyptian,Nurse,D002,H005,2018-06-17,9,18000,BSN,Active
+STF0186,Hussain,Al-Khathami,Male,Saudi,Specialist,D007,H008,2014-09-08,17,31000,Masters,Active
+STF0187,Bandar,Al-Mutairi,Male,Saudi,Administrator,D016,H015,2015-06-11,12,13000,Masters,Active
+STF0188,Ali,Al-Saleh,Male,Saudi,Nurse,D010,H007,2020-06-16,6,14000,Diploma,Active
+STF0189,Nesma,Tawfik,Female,Egyptian,Nurse,D004,H013,2020-07-13,9,13000,BSN,Active
+STF0190,Jose,Manalo,Male,Filipino,Doctor,D008,H012,2013-04-10,11,61500,PhD,Active
+STF0191,Amit,Nair,Male,Indian,Technician,D013,H010,2015-07-07,10,11500,Residency Completed,Active
+STF0192,Ahlam,Al-Shahrani,Female,Saudi,Nurse,D015,H003,2017-11-25,7,17000,Diploma,Active
+STF0193,Lubna,Al-Zahrani,Female,Saudi,Specialist,D017,H001,2011-09-01,20,42000,Board Certified,Resigned
+STF0194,Fatima,Aslam,Female,Pakistani,Nurse,D008,H002,2013-05-22,11,16500,Diploma,Active
+STF0195,Taghreed,Al-Shahrani,Female,Saudi,Nurse,D001,H001,2021-12-08,5,8000,BSN,Active
+STF0196,Salma,Helmy,Female,Egyptian,Technician,D001,H009,2019-08-29,10,13500,Diploma,Active
+STF0197,Salma,Mostafa,Female,Egyptian,Technician,D008,H004,2023-11-26,3,12500,BSN,Active
+STF0198,Mahmoud,Fawzy,Male,Egyptian,Nurse,D013,H008,2022-09-03,2,11500,Diploma,Active
+STF0199,Mariam,Hassan,Female,Egyptian,Technician,D003,H007,2018-07-04,7,10000,Diploma,Active
+STF0200,Angelica,Cruz,Female,Filipino,Nurse,D016,H014,2019-09-25,7,13500,Masters,Active
+STF0201,Abdulrahman,Al-Malki,Male,Saudi,Nurse,D007,H015,2022-09-18,3,9000,BSN,Active
+STF0202,Lakshmi,Kapoor,Female,Indian,Specialist,D002,H003,2017-01-20,7,27000,Fellowship,Resigned
+STF0203,Lorna,Cruz,Female,Filipino,Technician,D010,H003,2022-08-25,2,13000,BSN,Active
+STF0204,Mary Jane,Aquino,Female,Filipino,Technician,D005,H013,2011-10-05,15,14000,BSN,Active
+STF0205,Ibrahim,Al-Shehri,Male,Saudi,Doctor,D011,H010,2023-10-08,11,51000,Residency Completed,Active
+STF0206,Joud,Al-Shahrani,Female,Saudi,Nurse,D008,H006,2022-05-28,9,15000,BSN,Active
+STF0207,Stefan,Johnson,Male,Other,Doctor,D020,H005,2015-07-12,12,30500,Residency Completed,Active
+STF0208,Naif,Al-Tamimi,Male,Saudi,Specialist,D013,H006,2018-02-02,6,20000,Masters,Active
+STF0209,Saad,Al-Harbi,Male,Saudi,Technician,D005,H002,2014-03-16,11,10500,Residency Completed,Active
+STF0210,Abdullah,Al-Dosari,Male,Saudi,Technician,D012,H009,2012-02-02,14,12500,BSN,Active
+STF0211,Gemma,Aquino,Female,Filipino,Nurse,D003,H012,2022-07-20,9,12000,Masters,Active
+STF0212,Shahad,Al-Rashidi,Female,Saudi,Nurse,D005,H005,2016-10-02,8,10500,BSN,Active
+STF0213,Gemma,Lopez,Female,Filipino,Nurse,D016,H013,2011-09-23,14,12000,Masters,Active
+STF0214,Revathi,Reddy,Female,Indian,Nurse,D015,H002,2013-01-14,12,14500,Diploma,Active
+STF0215,Badr,Al-Saadi,Male,Saudi,Doctor,D011,H007,2023-05-02,1,46000,Fellowship,Active
+STF0216,Mishal,Al-Saleh,Male,Saudi,Doctor,D010,H012,2024-03-12,1,62500,Fellowship,Active
+STF0217,Mashael,Al-Khaldi,Female,Saudi,Nurse,D004,H015,2022-08-25,2,17000,BSN,Active
+STF0218,Abdullah,Al-Juhani,Male,Saudi,Nurse,D007,H008,2016-07-14,13,9000,Diploma,Active
+STF0219,Naif,Al-Khalidi,Male,Saudi,Doctor,D008,H005,2013-06-16,14,49500,Board Certified,Active
+STF0220,Taghreed,Al-Qurashi,Female,Saudi,Specialist,D013,H009,2021-05-13,10,42500,PhD,Active
+STF0221,Deema,Al-Asiri,Female,Saudi,Nurse,D020,H011,2011-11-28,13,12000,Masters,Active
+STF0222,Renato,Del Rosario,Male,Filipino,Administrator,D002,H010,2024-06-20,3,10500,BSN,Active
+STF0223,Faisal,Al-Enazi,Male,Saudi,Specialist,D008,H009,2021-08-20,5,42500,Fellowship,Active
+STF0224,Rashed,Al-Qurashi,Male,Saudi,Specialist,D017,H003,2017-09-26,17,36000,Board Certified,Active
+STF0225,Anita,Singh,Female,Indian,Nurse,D005,H006,2016-12-30,9,11500,Masters,Active
+STF0226,Faisal,Al-Saadi,Male,Saudi,Specialist,D015,H006,2011-07-05,14,43500,Board Certified,Active
+STF0227,Reem,Al-Rashidi,Female,Saudi,Technician,D008,H009,2013-11-30,13,8500,Residency Completed,Active
+STF0228,Marco,Aquino,Male,Filipino,Nurse,D006,H003,2024-05-13,3,14500,BSN,On Leave
+STF0229,Abeer,Al-Saadi,Female,Saudi,Specialist,D019,H007,2018-09-21,6,27000,Fellowship,Active
+STF0230,Vikram,Kapoor,Male,Indian,Nurse,D004,H013,2022-01-16,2,13500,BSN,Active
+STF0231,Bader,Al-Shahrani,Male,Saudi,Administrator,D017,H011,2017-01-11,9,12000,PhD,Active
+STF0232,Rohit,Agarwal,Male,Indian,Doctor,D020,H003,2016-09-02,15,63500,Board Certified,Active
+STF0233,Dalal,Al-Johani,Female,Saudi,Nurse,D010,H002,2014-02-08,11,10500,Masters,Active
+STF0234,Amal,Al-Murshidi,Female,Saudi,Nurse,D013,H007,2014-03-02,11,17000,Masters,Active
+STF0235,Asma,Al-Khathami,Female,Saudi,Specialist,D006,H008,2016-06-24,8,30500,PhD,Active
+STF0236,Katrina,Smith,Female,Other,Nurse,D016,H003,2014-05-18,15,17000,Masters,Active
+STF0237,Ashok,Joshi,Male,Indian,Technician,D015,H008,2013-10-02,11,6500,Diploma,Active
+STF0238,Manoj,Das,Male,Indian,Administrator,D010,H003,2020-04-04,6,13500,PhD,Active
+STF0239,Yara,Al-Mutairi,Female,Saudi,Nurse,D009,H013,2022-03-08,7,14000,Masters,Resigned
+STF0240,Swati,Agarwal,Female,Indian,Nurse,D018,H004,2019-07-15,5,12000,Diploma,Active
+STF0241,Mansour,Al-Dosari,Male,Saudi,Technician,D015,H014,2012-08-19,17,8000,Diploma,On Leave
+STF0242,Rowena,Del Rosario,Female,Filipino,Technician,D014,H003,2023-10-27,1,7500,Diploma,Active
+STF0243,Ahmed,Al-Yami,Male,Saudi,Doctor,D020,H009,2013-10-11,12,44000,Residency Completed,Active
+STF0244,Hani,Al-Harbi,Male,Saudi,Doctor,D005,H013,2019-03-26,12,43000,Fellowship,Active
+STF0245,Eman,Al-Tamimi,Female,Saudi,Doctor,D011,H014,2015-07-21,14,50500,PhD,Active
+STF0246,Saad,Al-Omari,Male,Saudi,Doctor,D013,H008,2011-09-11,15,31000,PhD,Active
+STF0247,Rowena,Bautista,Female,Filipino,Doctor,D016,H006,2023-01-20,1,31000,PhD,Active
+STF0248,Basmah,Al-Shehri,Female,Saudi,Administrator,D018,H007,2014-11-20,20,14000,Masters,Active
+STF0249,Hamad,Al-Fahad,Male,Saudi,Administrator,D018,H010,2012-12-05,14,11000,BSN,Active
+STF0250,Fatima,Al-Harbi,Female,Saudi,Technician,D015,H001,2012-10-14,19,7500,BSN,Active
+STF0251,Rawabi,Al-Balawi,Female,Saudi,Nurse,D005,H015,2016-10-08,8,12500,BSN,Active
+STF0252,Juan,Villanueva,Male,Filipino,Doctor,D006,H001,2018-11-21,8,40500,PhD,Active
+STF0253,Reem,Al-Otaibi,Female,Saudi,Nurse,D007,H008,2011-10-01,13,11500,Masters,Active
+STF0254,Maria,Ramos,Female,Filipino,Nurse,D004,H014,2019-06-22,8,16000,BSN,Active
+STF0255,Faisal,Al-Harbi,Male,Saudi,Specialist,D011,H006,2016-09-17,8,44500,Fellowship,Active
+STF0256,Huda,Al-Shehri,Female,Saudi,Administrator,D017,H010,2010-03-11,16,8500,PhD,Active
+STF0257,Joy,Dela Cruz,Female,Filipino,Nurse,D020,H011,2019-12-04,12,9500,BSN,Active
+STF0258,Ganesh,Verma,Male,Indian,Nurse,D012,H007,2017-01-20,12,12000,Diploma,Active
+STF0259,Ali,Al-Sulami,Male,Saudi,Doctor,D020,H012,2023-08-18,1,27000,Residency Completed,Active
+STF0260,Ayman,Soliman,Male,Egyptian,Doctor,D013,H005,2024-06-29,1,40500,PhD,Active
+STF0261,Ahlam,Al-Sulami,Female,Saudi,Nurse,D003,H009,2010-04-09,24,13000,BSN,Active
+STF0262,Emilio,Dela Cruz,Male,Filipino,Nurse,D012,H009,2013-11-16,16,9000,BSN,Active
+STF0263,Hazem,Soliman,Male,Egyptian,Specialist,D002,H015,2011-05-11,20,33000,Masters,Active
+STF0264,Ingrid,Wilson,Female,Other,Administrator,D013,H002,2024-05-14,2,12000,Masters,Active
+STF0265,Sana,Iqbal,Female,Pakistani,Nurse,D007,H013,2013-06-26,13,14500,Masters,Active
+STF0266,Vikram,Iyer,Male,Indian,Nurse,D014,H012,2015-05-09,9,9500,Diploma,Active
+STF0267,Salman,Al-Zahrani,Male,Saudi,Specialist,D010,H011,2013-12-09,11,43000,Fellowship,Active
+STF0268,Mazen,Al-Dawsari,Male,Saudi,Administrator,D017,H009,2015-10-25,9,8000,BSN,On Leave
+STF0269,Abdullah,Al-Fahad,Male,Saudi,Nurse,D014,H005,2021-10-01,3,17500,Masters,Active
+STF0270,Rosalinda,Villanueva,Female,Filipino,Nurse,D002,H008,2022-09-18,2,10500,Diploma,Resigned
+STF0271,Hassan,Al-Mutairi,Male,Saudi,Specialist,D008,H012,2021-05-31,3,20500,Fellowship,Active
+STF0272,Shahad,Al-Tamimi,Female,Saudi,Nurse,D006,H015,2010-10-17,16,15000,BSN,Active
+STF0273,Najla,Al-Yami,Female,Saudi,Nurse,D003,H010,2018-05-13,6,9000,BSN,Active
+STF0274,Ayesha,Siddiqui,Female,Pakistani,Doctor,D003,H015,2020-06-07,11,45500,Residency Completed,Active
+STF0275,Ayesha,Qureshi,Female,Pakistani,Nurse,D007,H005,2022-08-24,7,12000,Diploma,Active
+STF0276,Ahlam,Al-Balawi,Female,Saudi,Nurse,D018,H013,2015-07-02,9,14500,BSN,Active
+STF0277,Naif,Al-Otaibi,Male,Saudi,Administrator,D011,H001,2018-06-10,11,13000,BSN,Active
+STF0278,Yousef,Al-Omari,Male,Saudi,Administrator,D016,H001,2013-03-12,14,8000,Diploma,Active
+STF0279,Saeed,Al-Omari,Male,Saudi,Nurse,D012,H008,2011-11-27,15,16500,BSN,Active
+STF0280,Juan,Manalo,Male,Filipino,Nurse,D019,H001,2019-10-04,8,10000,BSN,Active
+STF0281,Mary Jane,Aquino,Female,Filipino,Nurse,D011,H006,2020-02-26,4,9000,BSN,Active
+STF0282,Hussain,Al-Harbi,Male,Saudi,Nurse,D005,H002,2013-09-08,12,13000,Diploma,Active
+STF0283,Rachel,Thomas,Female,Other,Nurse,D010,H008,2015-12-11,16,9500,BSN,Active
+STF0284,Hadeer,Moussa,Female,Egyptian,Nurse,D002,H004,2017-05-09,7,12000,Diploma,Active
+STF0285,Salwa,Al-Enazi,Female,Saudi,Nurse,D006,H001,2019-01-26,12,17000,Masters,Active
+STF0286,Rashed,Al-Harbi,Male,Saudi,Doctor,D005,H002,2010-04-08,14,39500,Fellowship,Active
+STF0287,Deema,Al-Dosari,Female,Saudi,Specialist,D019,H010,2015-10-22,16,22500,Board Certified,Active
+STF0288,Renato,Bautista,Male,Filipino,Specialist,D005,H002,2017-06-09,7,35000,Board Certified,Active
+STF0289,Mais,Nsour,Female,Jordanian,Technician,D013,H008,2010-08-30,15,9500,Diploma,Active
+STF0290,Nasser,Al-Yami,Male,Saudi,Administrator,D009,H008,2013-05-02,11,12000,Masters,Active
+STF0291,Stefan,Martin,Male,Other,Administrator,D016,H001,2011-12-20,13,8000,PhD,Active
+STF0292,Doaa,Shafik,Female,Egyptian,Nurse,D008,H011,2022-03-12,7,14500,Masters,Active
+STF0293,Mazen,Al-Dawsari,Male,Saudi,Specialist,D019,H009,2017-03-19,8,26000,Board Certified,Active
+STF0294,Maria,Flores,Female,Filipino,Specialist,D002,H013,2020-07-31,6,39000,Fellowship,Active
+STF0295,Bader,Al-Johani,Male,Saudi,Doctor,D009,H009,2011-04-04,18,39500,PhD,Active
+STF0296,Angelica,Torres,Female,Filipino,Specialist,D008,H010,2017-02-18,12,43000,Masters,Active
+STF0297,Rohit,Kapoor,Male,Indian,Administrator,D019,H003,2022-08-18,9,14000,PhD,Active
+STF0298,Meena,Patel,Female,Indian,Nurse,D003,H001,2015-03-21,11,8500,Masters,Active
+STF0299,Mohan,Reddy,Male,Indian,Doctor,D005,H006,2013-12-24,18,46000,Board Certified,Active
+STF0300,Saud,Al-Mutairi,Male,Saudi,Specialist,D017,H014,2018-03-09,16,32000,PhD,Active
+STF0301,Salwa,Al-Saleh,Female,Saudi,Nurse,D005,H003,2019-10-19,10,16000,Masters,Active
+STF0302,Ali,Al-Thaqafi,Male,Saudi,Specialist,D012,H004,2023-03-18,6,32500,Masters,On Leave
+STF0303,Amal,Al-Shamrani,Female,Saudi,Specialist,D001,H012,2022-11-06,3,38500,Board Certified,Active
+STF0304,Mona,Al-Murshidi,Female,Saudi,Nurse,D004,H015,2021-02-16,3,9500,BSN,Active
+STF0305,Qusai,Ababneh,Male,Jordanian,Nurse,D003,H014,2024-05-02,3,13500,Diploma,Active
+STF0306,Eman,Al-Shehri,Female,Saudi,Nurse,D012,H005,2012-06-04,15,9000,Diploma,Active
+STF0307,Nada,Al-Omari,Female,Saudi,Nurse,D016,H015,2018-06-30,7,14000,BSN,Active
+STF0308,Yara,Al-Malki,Female,Saudi,Specialist,D006,H008,2011-08-27,18,21000,Masters,Active
+STF0309,Usman,Ahmed,Male,Pakistani,Technician,D011,H003,2018-06-03,6,6500,Residency Completed,Active
+STF0310,Mohan,Bhat,Male,Indian,Technician,D001,H007,2013-09-13,13,9500,Diploma,Active
+STF0311,Wafa,Al-Balawi,Female,Saudi,Nurse,D014,H012,2022-06-06,5,17000,Diploma,Active
+STF0312,John,Johnson,Male,Other,Specialist,D002,H007,2022-10-28,4,36000,Fellowship,Active
+STF0313,Antonio,Cruz,Male,Filipino,Technician,D010,H014,2024-01-08,2,7500,Diploma,Active
+STF0314,Menna,Helmy,Female,Egyptian,Nurse,D003,H008,2012-08-04,13,14500,Diploma,Active
+STF0315,Natalie,Johnson,Female,Other,Doctor,D018,H007,2014-02-23,11,50000,Residency Completed,Active
+STF0316,Miguel,Bautista,Male,Filipino,Doctor,D015,H005,2015-01-28,14,62000,Board Certified,Active
+STF0317,Bader,Al-Harbi,Male,Saudi,Nurse,D003,H011,2017-09-17,12,15000,Masters,Active
+STF0318,Nisha,Verma,Female,Indian,Specialist,D017,H007,2022-01-04,5,35500,Fellowship,Active
+STF0319,Mishal,Al-Ghamdi,Male,Saudi,Technician,D017,H010,2021-08-04,8,11500,Residency Completed,Active
+STF0320,Anas,Al-Shamrani,Male,Saudi,Specialist,D006,H004,2014-04-28,10,34000,Board Certified,Active
+STF0321,Naif,Al-Tamimi,Male,Saudi,Technician,D020,H005,2017-03-04,14,13500,Diploma,Active
+STF0322,Mishal,Al-Khathami,Male,Saudi,Technician,D011,H014,2016-03-12,10,13500,Diploma,Active
+STF0323,Saeed,Al-Omari,Male,Saudi,Doctor,D004,H007,2013-05-10,11,63500,Board Certified,Active
+STF0324,Reem,Al-Shammari,Female,Saudi,Nurse,D018,H015,2017-09-17,14,12500,Diploma,Active
+STF0325,Haneen,Al-Harithi,Female,Saudi,Nurse,D002,H003,2016-03-06,9,18000,Masters,Active
+STF0326,Lorna,Ramos,Female,Filipino,Nurse,D008,H001,2020-08-28,11,14000,BSN,Active
+STF0327,Mehreen,Sheikh,Female,Pakistani,Doctor,D009,H014,2021-01-10,10,31500,Fellowship,Active
+STF0328,Rizwan,Akhtar,Male,Pakistani,Technician,D011,H005,2019-05-08,7,6500,Diploma,Active
+STF0329,Lina,Al-Shahrani,Female,Saudi,Nurse,D017,H014,2018-05-22,11,16500,BSN,Active
+STF0330,Elena,Wilson,Female,Other,Nurse,D005,H013,2021-10-04,10,8500,BSN,Active
+STF0331,Tamer,Hassan,Male,Egyptian,Nurse,D008,H001,2020-03-28,4,14000,Masters,Active
+STF0332,Lamia,Al-Bogami,Female,Saudi,Nurse,D013,H011,2012-10-11,15,12000,Diploma,Active
+STF0333,Asma,Al-Harithi,Female,Saudi,Nurse,D019,H009,2017-11-05,8,12000,Masters,Active
+STF0334,Sara,Al-Turki,Female,Saudi,Nurse,D002,H003,2022-11-01,7,11500,BSN,Active
+STF0335,Wafa,Al-Yami,Female,Saudi,Nurse,D014,H009,2010-06-14,21,8000,Diploma,Active
+STF0336,Haneen,Al-Otaibi,Female,Saudi,Nurse,D008,H005,2023-08-24,6,13000,Masters,On Leave
+STF0337,Ajay,Verma,Male,Indian,Doctor,D012,H008,2015-08-27,9,45000,PhD,Active
+STF0338,Basma,Al-Khaldi,Female,Saudi,Nurse,D018,H011,2023-04-27,3,13000,Masters,Active
+STF0339,Amit,Menon,Male,Indian,Doctor,D011,H014,2016-03-18,8,44500,Fellowship,Active
+STF0340,Hossam,Hassan,Male,Egyptian,Doctor,D020,H007,2017-03-03,10,26500,PhD,Active
+STF0341,Lina,Al-Bishi,Female,Saudi,Nurse,D013,H012,2010-10-17,16,17500,BSN,Active
+STF0342,Kavita,Das,Female,Indian,Technician,D016,H015,2018-01-15,8,13000,Diploma,Active
+STF0343,Asma,Al-Shammari,Female,Saudi,Technician,D004,H008,2012-11-14,15,12000,Residency Completed,Resigned
+STF0344,Meshari,Al-Fahad,Male,Saudi,Nurse,D003,H004,2017-12-20,7,13000,Diploma,Active
+STF0345,Hussain,Al-Shammari,Male,Saudi,Administrator,D015,H014,2012-08-22,13,14000,Diploma,Active
+STF0346,Rosalinda,Garcia,Female,Filipino,Doctor,D013,H009,2016-09-10,9,35000,Fellowship,Active
+STF0347,Emilio,Bautista,Male,Filipino,Doctor,D005,H006,2014-01-17,15,57000,Residency Completed,Active
+STF0348,Tariq,Al-Zahrani,Male,Saudi,Nurse,D001,H008,2016-02-19,8,11000,Masters,Resigned
+STF0349,Sultan,Al-Subaie,Male,Saudi,Doctor,D020,H007,2024-03-17,1,53000,PhD,Active
+STF0350,Venkat,Reddy,Male,Indian,Doctor,D012,H001,2017-03-24,12,60000,Fellowship,Active
+STF0351,Eman,Al-Malki,Female,Saudi,Nurse,D012,H005,2012-11-22,12,16000,Masters,Active
+STF0352,Abdulrahman,Al-Khalidi,Male,Saudi,Doctor,D010,H008,2021-09-02,5,47000,PhD,Active
+STF0353,Arwa,Al-Shahrani,Female,Saudi,Specialist,D012,H013,2014-03-24,10,33000,Board Certified,Active
+STF0354,Amal,Al-Anazi,Female,Saudi,Nurse,D001,H010,2021-04-26,3,14000,Masters,Active
+STF0355,Mais,Ababneh,Female,Jordanian,Specialist,D009,H013,2021-12-29,5,39500,Board Certified,Active
+STF0356,Sarah,Smith,Female,Other,Nurse,D004,H007,2019-12-19,6,17000,Diploma,Active
+STF0357,Wafa,Al-Otaibi,Female,Saudi,Doctor,D010,H007,2012-04-07,15,42500,Fellowship,Active
+STF0358,Reem,Al-Bogami,Female,Saudi,Technician,D020,H002,2016-05-04,8,7000,BSN,Active
+STF0359,Haifa,Al-Thubaiti,Female,Saudi,Nurse,D007,H006,2019-03-11,5,8500,Masters,Active
+STF0360,Rabia,Qureshi,Female,Pakistani,Technician,D008,H001,2010-04-15,17,13500,Diploma,Active
+STF0361,Huda,Al-Dosari,Female,Saudi,Nurse,D017,H002,2012-04-09,19,12000,Diploma,Active
+STF0362,Lina,Al-Zoubi,Female,Jordanian,Nurse,D006,H014,2010-11-20,21,14000,Masters,Active
+STF0363,Usman,Ahmed,Male,Pakistani,Doctor,D002,H001,2013-02-07,14,36000,Residency Completed,Active
+STF0364,Thamer,Al-Yami,Male,Saudi,Nurse,D003,H006,2017-09-08,7,14500,Diploma,Active
+STF0365,Shahad,Al-Harithi,Female,Saudi,Nurse,D014,H011,2013-09-28,11,9000,BSN,Active
+STF0366,Hussain,Al-Harithi,Male,Saudi,Doctor,D019,H011,2019-10-30,5,50000,Residency Completed,Active
+STF0367,Sanjay,Bhat,Male,Indian,Doctor,D016,H002,2019-03-24,6,29000,Residency Completed,Active
+STF0368,Rosalinda,Manalo,Female,Filipino,Nurse,D019,H004,2017-08-03,9,9500,Diploma,Active
+STF0369,Taghreed,Al-Dawsari,Female,Saudi,Doctor,D013,H003,2022-07-10,9,28500,Board Certified,Active
+STF0370,Basma,Al-Harithi,Female,Saudi,Administrator,D016,H014,2013-09-16,11,11000,BSN,Active
+STF0371,Mohannad,Al-Masri,Male,Jordanian,Specialist,D017,H004,2022-05-07,4,33000,Fellowship,Active
+STF0372,Farah,Akhtar,Female,Pakistani,Nurse,D003,H014,2021-03-07,4,10000,Diploma,Resigned
+STF0373,Mariam,El-Masry,Female,Egyptian,Doctor,D014,H001,2022-07-01,4,31000,Residency Completed,Active
+STF0374,Rabia,Qureshi,Female,Pakistani,Specialist,D012,H014,2011-03-21,18,35000,Masters,Active
+STF0375,Haneen,Al-Harithi,Female,Saudi,Doctor,D012,H012,2020-02-25,4,39500,Board Certified,Active
+STF0376,Vivek,Das,Male,Indian,Technician,D017,H006,2012-05-20,12,7500,BSN,Active
+STF0377,Lina,Al-Harbi,Female,Saudi,Doctor,D009,H010,2014-05-24,10,50500,Fellowship,Active
+STF0378,Kavita,Pillai,Female,Indian,Doctor,D004,H013,2019-04-19,5,63500,Board Certified,Resigned
+STF0379,Divina,Manalo,Female,Filipino,Doctor,D017,H003,2021-03-10,3,28000,PhD,Active
+STF0380,Hani,Al-Shamrani,Male,Saudi,Specialist,D019,H003,2012-11-17,12,41500,Masters,Active
+STF0381,Talal,Al-Sulami,Male,Saudi,Nurse,D008,H005,2018-12-04,16,13000,Diploma,Active
+STF0382,Salman,Al-Bogami,Male,Saudi,Administrator,D010,H014,2022-04-15,9,13000,Masters,Active
+STF0383,Hamad,Al-Dawsari,Male,Saudi,Specialist,D005,H012,2013-12-27,13,43000,Masters,On Leave
+STF0384,Basmah,Al-Khathami,Female,Saudi,Nurse,D016,H010,2022-10-19,9,15000,Masters,Resigned
+STF0385,Lubna,Al-Shammari,Female,Saudi,Administrator,D014,H013,2010-04-15,16,7000,PhD,Active
+STF0386,Suresh,Reddy,Male,Indian,Doctor,D009,H013,2013-08-11,21,41500,Fellowship,Active
+STF0387,Rania,Al-Anazi,Female,Saudi,Nurse,D018,H001,2018-01-17,11,9500,Masters,Active
+STF0388,Jasmine,Soriano,Female,Filipino,Technician,D013,H004,2021-06-17,8,12500,Residency Completed,Active
+STF0389,Sarah,Wilson,Female,Other,Doctor,D013,H007,2017-01-05,17,28500,Board Certified,Resigned
+STF0390,Farida,Tawfik,Female,Egyptian,Nurse,D008,H015,2024-03-19,3,14000,Masters,Active
+STF0391,Abeer,Al-Balawi,Female,Saudi,Doctor,D010,H008,2013-12-24,21,30000,Fellowship,Active
+STF0392,Dina,Obeidat,Female,Jordanian,Doctor,D002,H007,2016-04-05,10,33500,Fellowship,Active
+STF0393,Mohammed,Al-Fahad,Male,Saudi,Nurse,D015,H012,2013-06-22,11,13500,Masters,Active
+STF0394,Naif,Al-Thaqafi,Male,Saudi,Nurse,D010,H008,2022-11-05,4,9000,Masters,Active
+STF0395,Nasser,Al-Thubaiti,Male,Saudi,Technician,D003,H013,2021-05-01,3,10500,Residency Completed,Active
+STF0396,Ibrahim,Al-Anazi,Male,Saudi,Doctor,D011,H006,2018-02-03,6,60000,PhD,Active
+STF0397,Lina,Al-Zoubi,Female,Jordanian,Doctor,D012,H008,2015-05-23,16,41000,Board Certified,Active
+STF0398,Abdulaziz,Al-Mutairi,Male,Saudi,Nurse,D013,H005,2022-02-12,5,8500,Masters,Resigned
+STF0399,Basma,Al-Saadi,Female,Saudi,Nurse,D016,H001,2016-08-25,15,11000,Diploma,Active
+STF0400,Mariam,Farouk,Female,Egyptian,Nurse,D018,H009,2010-03-02,16,11500,Masters,Active

@@ -1,0 +1,16 @@
+hospital_id,hospital_name,city,region,type,bed_capacity,established_year,accreditation,ownership
+H001,King Faisal Specialist Hospital,Riyadh,Riyadh Region,Tertiary,1200,1975,JCI Accredited,Government
+H002,King Abdulaziz Medical City,Jeddah,Makkah Region,Tertiary,950,1982,JCI Accredited,Government
+H003,Saudi German Hospital,Riyadh,Riyadh Region,General,450,2000,CBAHI Accredited,Private
+H004,Dr. Sulaiman Al Habib Hospital,Riyadh,Riyadh Region,General,400,2006,JCI Accredited,Private
+H005,King Fahad Medical City,Riyadh,Riyadh Region,Tertiary,1100,2004,JCI Accredited,Government
+H006,Al Noor Specialist Hospital,Makkah,Makkah Region,Specialist,350,1986,CBAHI Accredited,Private
+H007,King Abdullah Medical Complex,Jeddah,Makkah Region,General,500,2010,CBAHI Accredited,Government
+H008,Dallah Hospital,Riyadh,Riyadh Region,General,380,1987,JCI Accredited,Private
+H009,King Fahad Hospital,Dammam,Eastern Region,General,600,1978,CBAHI Accredited,Government
+H010,Mouwasat Medical Services,Dammam,Eastern Region,General,350,1974,JCI Accredited,Private
+H011,Prince Sultan Military Medical City,Riyadh,Riyadh Region,Tertiary,900,1979,JCI Accredited,Government
+H012,Al Hammadi Hospital,Riyadh,Riyadh Region,General,300,1985,CBAHI Accredited,Private
+H013,King Khalid University Hospital,Riyadh,Riyadh Region,Teaching,800,1982,JCI Accredited,Government
+H014,Magrabi Eye Hospital,Jeddah,Makkah Region,Specialist,150,1955,CBAHI Accredited,Private
+H015,NEOM Health Center,NEOM,Tabuk Region,General,200,2024,Pending,Government

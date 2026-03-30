@@ -1,0 +1,501 @@
+patient_id,first_name,last_name,gender,date_of_birth,nationality,city,blood_type,insurance_type,chronic_conditions
+PAT0001,Faisal,Al-Qurashi,Male,1949-07-15,Saudi,Makkah,O+,Private (Bupa),Hypertension
+PAT0002,Lamia,Al-Shamrani,Female,1982-01-09,Saudi,NEOM,B+,Private (Bupa),Diabetes
+PAT0003,Rami,Salah,Male,1964-05-08,Egyptian,Riyadh,O+,Private (Bupa),None
+PAT0004,Layla,Al-Ahmadi,Female,1987-01-10,Saudi,Makkah,O+,Government (CCHI),None
+PAT0005,Amina,Hassan,Female,1992-03-28,Egyptian,Riyadh,O+,Private (Medgulf),None
+PAT0006,Khaled,Al-Rajhi,Male,2002-05-10,Saudi,Riyadh,A+,Government (CCHI),Thyroid Disorder
+PAT0007,Norah,Al-Essa,Female,1976-03-25,Saudi,Riyadh,B+,Government (CCHI),Hypertension
+PAT0008,Tariq,Al-Ghamdi,Male,1978-09-07,Saudi,Makkah,O+,Government (CCHI),Diabetes
+PAT0009,Shahd,Al-Shamrani,Female,1982-07-23,Saudi,Makkah,AB+,Military (GOSI),Asthma
+PAT0010,Zara,Verma,Female,2005-03-19,Indian,Jeddah,O+,Military (GOSI),Asthma
+PAT0011,Dalia,El-Sayed,Female,1982-11-25,Egyptian,Makkah,O+,Private (Bupa),None
+PAT0012,Muhannad,Al-Shamrani,Male,1965-08-30,Saudi,Dammam,B+,Government (CCHI),None
+PAT0013,Omar,Al-Johani,Male,1978-03-27,Saudi,Riyadh,O-,Self-Pay,Hypertension
+PAT0014,Norah,Al-Essa,Female,2010-08-20,Saudi,Khobar,B+,Private (Tawuniya),None
+PAT0015,Yasser,Al-Garni,Male,2007-11-03,Saudi,Jeddah,A+,Private (Tawuniya),Obesity
+PAT0016,Haitham,Al-Dossary,Male,1997-03-13,Saudi,Jeddah,AB+,Private (Tawuniya),None
+PAT0017,Rayan,Al-Ahmadi,Male,1953-09-09,Saudi,Jeddah,O+,Private (Tawuniya),Heart Disease
+PAT0018,Asma,Al-Omari,Female,1949-04-09,Saudi,Riyadh,A+,Private (Bupa),Hypertension
+PAT0019,Mishaal,Al-Balawi,Male,2020-02-13,Saudi,Dammam,O+,Military (GOSI),Obesity
+PAT0020,Abdullah,Al-Dosari,Male,2020-05-21,Saudi,Madinah,O+,Government (CCHI),None
+PAT0021,Abdulaziz,Al-Enazi,Male,1951-09-17,Saudi,Dammam,A+,Government (CCHI),Heart Disease
+PAT0022,Majed,Al-Harbi,Male,1959-07-31,Saudi,Jeddah,O+,Government (CCHI),Kidney Disease
+PAT0023,Reema,Al-Otaibi,Female,1973-03-26,Saudi,Jeddah,O+,Military (GOSI),Hypertension
+PAT0024,Ziyad,Al-Bishi,Male,2001-07-15,Saudi,Jeddah,O+,Private (Bupa),Asthma
+PAT0025,Faisal,Al-Zahrani,Male,1999-11-10,Saudi,Riyadh,O+,Private (Bupa),None
+PAT0026,Tamer,Al-Shahrani,Male,1980-10-28,Saudi,Abha,O+,Private (Bupa),None
+PAT0027,Suresh,Begum,Male,1998-02-08,Bangladeshi,Jeddah,B+,Private (Tawuniya),None
+PAT0028,Aisha,Al-Rashid,Female,2011-03-21,Saudi,Makkah,O+,Government (CCHI),Asthma
+PAT0029,Samina,Qureshi,Female,1966-11-01,Pakistani,Makkah,O-,Private (Bupa),Diabetes
+PAT0030,Nada,Al-Malki,Female,1946-04-26,Saudi,Riyadh,O+,Private (Bupa),Kidney Disease
+PAT0031,Fares,Al-Buqami,Male,1951-03-22,Saudi,Tabuk,O+,Military (GOSI),Diabetes
+PAT0032,Talal,Al-Khaldi,Male,1998-06-27,Saudi,Abha,B+,Military (GOSI),Hypertension
+PAT0033,Ziyad,Al-Ahmadi,Male,1989-05-14,Saudi,Riyadh,AB+,Government (CCHI),Obesity
+PAT0034,Cherry,Flores,Female,1965-07-22,Filipino,Dammam,O+,Private (Tawuniya),Diabetes
+PAT0035,Yasmin,Ibrahim,Female,1956-01-23,Egyptian,Tabuk,O-,Private (Tawuniya),Heart Disease
+PAT0036,Atheer,Al-Johani,Female,1963-09-16,Saudi,Makkah,B+,Government (CCHI),None
+PAT0037,Aisha,Farouk,Female,1952-06-08,Egyptian,Dammam,O+,Private (Tawuniya),Diabetes
+PAT0038,Yasmin,El-Sayed,Female,1960-01-03,Egyptian,Khobar,B+,Military (GOSI),Diabetes & Hypertension
+PAT0039,Wael,Al-Otaibi,Male,2013-09-11,Saudi,Dammam,A+,Government (CCHI),Thyroid Disorder
+PAT0040,Amira,Al-Juhani,Female,2018-09-22,Saudi,Abha,O+,Private (Tawuniya),None
+PAT0041,Samar,Al-Fayez,Female,1954-06-27,Saudi,Tabuk,A-,Military (GOSI),Diabetes & Hypertension
+PAT0042,Abeer,Al-Harbi,Female,1956-10-05,Saudi,Riyadh,O+,Private (Tawuniya),Heart Disease
+PAT0043,Latifa,Al-Bishi,Female,1960-06-02,Saudi,Tabuk,A+,Government (CCHI),Hypertension
+PAT0044,Soha,Al-Abbadi,Female,1986-12-22,Jordanian,Dammam,A+,Self-Pay,Diabetes
+PAT0045,Sultan,Al-Mojil,Male,2005-06-11,Saudi,Jeddah,O+,Private (Bupa),None
+PAT0046,Yousef,Al-Buqami,Male,1970-10-12,Saudi,Dammam,A+,Private (Tawuniya),Asthma
+PAT0047,Khaled,Al-Garni,Male,1947-07-28,Saudi,Madinah,O+,Private (Bupa),Diabetes & Hypertension
+PAT0048,Leen,Al-Qurashi,Female,2001-10-06,Saudi,Jeddah,O+,Government (CCHI),Asthma
+PAT0049,Munira,Al-Ruwaili,Female,1998-04-16,Saudi,Jeddah,O+,Military (GOSI),Diabetes
+PAT0050,Bushra,Al-Saleh,Female,1953-06-02,Saudi,Jeddah,A-,Government (CCHI),Diabetes & Hypertension
+PAT0051,Saleh,Al-Garni,Male,1977-10-16,Saudi,Abha,A+,Self-Pay,Diabetes
+PAT0052,Samar,Al-Rashid,Female,1994-11-22,Saudi,Makkah,O+,Military (GOSI),None
+PAT0053,Nawaf,Al-Tamimi,Male,1976-05-13,Saudi,Riyadh,O-,Private (Medgulf),Diabetes & Hypertension
+PAT0054,Leen,Al-Johani,Female,1953-09-03,Saudi,Jeddah,O+,Private (Medgulf),Hypertension
+PAT0055,Shatha,Al-Enazi,Female,1947-12-08,Saudi,Madinah,A+,Government (CCHI),Diabetes
+PAT0056,Samina,Singh,Female,1963-07-17,Indian,Jeddah,B+,Government (CCHI),Diabetes & Hypertension
+PAT0057,Imran,Gupta,Male,1956-08-02,Indian,Makkah,A-,Private (Bupa),Diabetes
+PAT0058,Nasser,Al-Shahrani,Male,1979-12-19,Saudi,NEOM,B+,Military (GOSI),Thyroid Disorder
+PAT0059,Dana,Al-Asiri,Female,1965-12-21,Saudi,Dammam,A+,Government (CCHI),Hypertension
+PAT0060,Rose,Dela Cruz,Female,2015-07-23,Filipino,Dammam,O+,Self-Pay,None
+PAT0061,Bilal,Al-Malki,Male,1962-01-12,Saudi,Jeddah,A-,Private (Tawuniya),None
+PAT0062,Abdulaziz,Al-Hamdan,Male,1974-06-03,Saudi,Dammam,A+,Military (GOSI),Hypertension
+PAT0063,Sultan,Al-Shamrani,Male,1995-04-27,Saudi,Riyadh,O+,Private (Tawuniya),Thyroid Disorder
+PAT0064,Saeed,Al-Malki,Male,1981-12-04,Saudi,Riyadh,A+,Military (GOSI),Hypertension
+PAT0065,Sara,Al-Zahrani,Female,1964-03-04,Saudi,Riyadh,O+,Military (GOSI),Diabetes
+PAT0066,Fatima,Al-Qahtani,Female,1987-04-05,Saudi,Riyadh,O-,Government (CCHI),Diabetes
+PAT0067,Abdullah,Al-Sulami,Male,1957-06-21,Saudi,Madinah,O+,Private (Tawuniya),Heart Disease
+PAT0068,Lama,Al-Yami,Female,1994-02-04,Saudi,Riyadh,O+,Private (Tawuniya),None
+PAT0069,Nasreen,Raza,Female,1969-01-04,Pakistani,Riyadh,A-,Private (Medgulf),Obesity
+PAT0070,Khaled,Al-Zahrani,Male,1963-05-19,Saudi,Riyadh,B+,Private (Tawuniya),Asthma
+PAT0071,Tamer,Al-Mojil,Male,1964-03-11,Saudi,Jeddah,O-,Private (Tawuniya),Diabetes & Hypertension
+PAT0072,Joud,Al-Tamimi,Female,1997-06-29,Saudi,Riyadh,A+,Government (CCHI),Asthma
+PAT0073,Rizwan,Raza,Male,1996-12-31,Pakistani,Riyadh,O+,Private (Medgulf),None
+PAT0074,Jamal,Ahmed,Male,2007-10-05,Pakistani,Dammam,A+,Private (Medgulf),Asthma
+PAT0075,Jose,Flores,Male,1950-10-27,Filipino,Abha,A+,Private (Medgulf),Diabetes & Hypertension
+PAT0076,Majed,Al-Essa,Male,1994-10-25,Saudi,NEOM,B+,Government (CCHI),None
+PAT0077,Hamza,Al-Shehri,Male,1972-12-25,Saudi,Jeddah,O+,Self-Pay,None
+PAT0078,Abdulaziz,Al-Harbi,Male,1980-06-30,Saudi,Riyadh,O+,Military (GOSI),Cancer
+PAT0079,Hadeel,Al-Hamdan,Female,1974-07-01,Saudi,Tabuk,A+,Government (CCHI),None
+PAT0080,Huda,Al-Khaldi,Female,2010-07-23,Saudi,NEOM,O+,Private (Bupa),None
+PAT0081,Cherry,Santos,Female,1996-12-08,Filipino,Riyadh,O+,Private (Bupa),Asthma
+PAT0082,Shahid,Mirza,Male,2020-06-06,Pakistani,Abha,A+,Private (Tawuniya),None
+PAT0083,Dalal,Al-Dosari,Female,1988-03-17,Saudi,Madinah,A-,Government (CCHI),None
+PAT0084,Adel,Al-Ghamdi,Male,1978-07-01,Saudi,Riyadh,A+,Government (CCHI),None
+PAT0085,Huda,Al-Mutairi,Female,1997-07-07,Saudi,Riyadh,A+,Military (GOSI),None
+PAT0086,Badriya,Al-Rashid,Female,2016-09-28,Saudi,Khobar,A+,Government (CCHI),Asthma
+PAT0087,Lama,Al-Shamrani,Female,1987-12-05,Saudi,Riyadh,AB+,Government (CCHI),None
+PAT0088,Fares,Al-Hamdan,Male,1986-02-18,Saudi,Abha,O+,Private (Bupa),Obesity
+PAT0089,Yasser,Al-Faifi,Male,2000-10-10,Saudi,Dammam,AB+,Private (Bupa),Thyroid Disorder
+PAT0090,Lamia,Al-Rajhi,Female,1981-11-20,Saudi,Tabuk,O+,Government (CCHI),Diabetes & Hypertension
+PAT0091,Adel,Al-Qurashi,Male,2000-11-17,Saudi,Riyadh,B+,Government (CCHI),Obesity
+PAT0092,Munira,Al-Sulami,Female,1975-08-10,Saudi,Jeddah,A+,Government (CCHI),Diabetes & Hypertension
+PAT0093,Khalid,Al-Buqami,Male,1998-03-04,Saudi,Jeddah,O+,Military (GOSI),None
+PAT0094,Khalid,Al-Shammari,Male,2018-06-04,Saudi,Riyadh,O+,Government (CCHI),Hypertension
+PAT0095,Abdullah,Al-Faifi,Male,2011-11-18,Saudi,Riyadh,AB+,Military (GOSI),None
+PAT0096,Alaa,Khoury,Male,1993-03-02,Syrian,Riyadh,B-,Government (CCHI),Asthma
+PAT0097,Maryam,Al-Asiri,Female,1984-08-30,Saudi,Riyadh,AB-,Private (Medgulf),None
+PAT0098,Waleed,Al-Saud,Male,1952-06-14,Saudi,Khobar,O-,Military (GOSI),Hypertension
+PAT0099,Dalal,Al-Dawsari,Female,2004-02-20,Saudi,Khobar,AB+,Government (CCHI),Asthma
+PAT0100,Sultan,Al-Rajhi,Male,1992-03-16,Saudi,Riyadh,O+,Government (CCHI),Thyroid Disorder
+PAT0101,Nesma,Baeshen,Female,1954-06-23,Yemeni,Khobar,A+,Government (CCHI),Diabetes
+PAT0102,Norah,Al-Shehri,Female,1992-01-08,Saudi,Jeddah,O+,Private (Bupa),None
+PAT0103,Tariq,Al-Enazi,Male,2003-11-03,Saudi,Tabuk,O+,Private (Medgulf),None
+PAT0104,Khulood,Al-Ruwaili,Female,2018-12-07,Saudi,Riyadh,O+,Private (Bupa),None
+PAT0105,Mark,Gonzales,Male,2004-08-11,Filipino,Makkah,A+,Private (Bupa),Obesity
+PAT0106,Sanjay,Butt,Male,1949-07-03,Pakistani,Khobar,O+,Private (Tawuniya),Kidney Disease
+PAT0107,Faisal,Al-Fayez,Male,2012-11-18,Saudi,Riyadh,A-,Military (GOSI),Asthma
+PAT0108,Reem,Al-Subaie,Female,1953-10-25,Saudi,Makkah,A-,Government (CCHI),None
+PAT0109,Naveen,Hossain,Male,1971-08-08,Bangladeshi,Madinah,A+,Self-Pay,Kidney Disease
+PAT0110,Amit,Kumar,Male,1986-06-29,Indian,Makkah,O+,Private (Tawuniya),Diabetes & Hypertension
+PAT0111,Bandar,Al-Dosari,Male,1971-03-26,Saudi,Riyadh,A+,Private (Medgulf),None
+PAT0112,Sunita,Menon,Female,1955-09-09,Indian,Jeddah,O+,Private (Tawuniya),Diabetes
+PAT0113,Asma,Al-Hazmi,Female,1976-12-31,Saudi,Jeddah,A+,Private (Bupa),Hypertension
+PAT0114,Bandar,Al-Shammari,Male,1998-02-11,Saudi,Riyadh,O+,Private (Bupa),None
+PAT0115,Ammar,Al-Hazmi,Male,1976-01-26,Saudi,Tabuk,B+,Private (Bupa),Cancer
+PAT0116,Latifa,Al-Khaldi,Female,1962-07-09,Saudi,Jeddah,O+,Private (Tawuniya),None
+PAT0117,Fares,Al-Juhani,Male,1963-09-03,Saudi,Makkah,A+,Private (Bupa),Kidney Disease
+PAT0118,Mishaal,Al-Johani,Male,1990-11-15,Saudi,Madinah,B+,Government (CCHI),Thyroid Disorder
+PAT0119,Mansour,Al-Johani,Male,1954-04-13,Saudi,Jeddah,A+,Private (Bupa),None
+PAT0120,Amira,Al-Saud,Female,1990-04-06,Saudi,NEOM,O+,Military (GOSI),Diabetes
+PAT0121,Rafael,Gonzales,Male,2002-12-19,Filipino,Makkah,A+,Self-Pay,Obesity
+PAT0122,Ahmad,Al-Asiri,Male,1989-02-03,Saudi,Makkah,A+,Private (Tawuniya),Diabetes
+PAT0123,Eman,Naguib,Female,1958-06-11,Egyptian,NEOM,A+,Self-Pay,Diabetes & Hypertension
+PAT0124,Sharmin,Menon,Female,1963-12-08,Indian,Riyadh,O+,Private (Bupa),Obesity
+PAT0125,Mishaal,Al-Khaldi,Male,1969-12-09,Saudi,Jeddah,O+,Private (Tawuniya),None
+PAT0126,Kamran,Reddy,Male,1957-11-23,Indian,Riyadh,A+,Private (Tawuniya),Hypertension
+PAT0127,Joud,Al-Ghamdi,Female,1994-02-11,Saudi,Dammam,A+,Private (Bupa),None
+PAT0128,Dalia,Al-Zoubi,Female,1970-10-12,Jordanian,Tabuk,B+,Self-Pay,Hypertension
+PAT0129,Leen,Al-Dossary,Female,1961-02-27,Saudi,Riyadh,AB+,Military (GOSI),Diabetes & Hypertension
+PAT0130,Yousef,Al-Otaibi,Male,1978-09-01,Saudi,Dammam,B+,Government (CCHI),Hypertension
+PAT0131,Rashid,Al-Qahtani,Male,1948-12-05,Saudi,Jeddah,B+,Military (GOSI),None
+PAT0132,Faisal,Al-Shammari,Male,1988-10-28,Saudi,Khobar,O+,Military (GOSI),Hypertension
+PAT0133,Huda,Al-Sulami,Female,1968-04-15,Saudi,NEOM,A+,Military (GOSI),None
+PAT0134,Nesma,Mohamed,Female,1970-03-18,Egyptian,Abha,A+,Private (Tawuniya),Diabetes
+PAT0135,Rania,Al-Balawi,Female,1959-05-24,Saudi,Madinah,A+,Self-Pay,Hypertension
+PAT0136,Omar,Al-Shammari,Male,1997-02-10,Saudi,Riyadh,AB+,Military (GOSI),Hypertension
+PAT0137,Ghada,Al-Zahrani,Female,1991-02-28,Saudi,Jeddah,B+,Private (Tawuniya),Diabetes & Hypertension
+PAT0138,Rayan,Al-Mutairi,Male,1983-10-16,Saudi,Abha,A+,Private (Tawuniya),None
+PAT0139,Khalid,Al-Ghamdi,Male,1992-11-24,Saudi,Makkah,B+,Military (GOSI),None
+PAT0140,Saleh,Al-Dosari,Male,1975-07-07,Saudi,Riyadh,A+,Military (GOSI),Diabetes
+PAT0141,Abdulrahman,Al-Hamdan,Male,1947-06-20,Saudi,Riyadh,A+,Private (Bupa),Hypertension
+PAT0142,Salman,Al-Thubaiti,Male,2013-11-30,Saudi,Riyadh,A+,Private (Medgulf),None
+PAT0143,Munira,Al-Faifi,Female,2009-01-02,Saudi,Jeddah,O+,Government (CCHI),None
+PAT0144,Saeed,Al-Mojil,Male,1947-03-18,Saudi,Riyadh,A-,Military (GOSI),Diabetes
+PAT0145,Ammar,Al-Ghamdi,Male,1967-08-25,Saudi,Makkah,A-,Self-Pay,Diabetes
+PAT0146,Yousef,Al-Mutairi,Male,1948-12-21,Saudi,Tabuk,O+,Self-Pay,Diabetes
+PAT0147,Tamara,Al-Dossary,Female,2012-02-18,Saudi,Khobar,A+,Government (CCHI),None
+PAT0148,Ravi,Patel,Male,1953-10-24,Indian,Riyadh,B+,Private (Bupa),Diabetes
+PAT0149,Basma,Al-Subaie,Female,1951-06-30,Saudi,Tabuk,O+,Private (Tawuniya),Diabetes
+PAT0150,Arun,Alam,Male,1962-08-18,Bangladeshi,NEOM,B+,Private (Bupa),Kidney Disease
+PAT0151,Jamal,Raza,Male,2022-03-25,Pakistani,Riyadh,O+,Private (Bupa),Thyroid Disorder
+PAT0152,Michael,Torres,Male,1947-07-18,Filipino,Jeddah,A+,Private (Bupa),Diabetes
+PAT0153,Doaa,Al-Houthi,Female,1993-02-19,Yemeni,Abha,AB+,Private (Bupa),Hypertension
+PAT0154,Shahd,Al-Thubaiti,Female,1958-04-16,Saudi,Riyadh,B+,Military (GOSI),None
+PAT0155,Fahad,Al-Saud,Male,1945-07-15,Saudi,Riyadh,O+,Military (GOSI),Obesity
+PAT0156,Sanjay,Patel,Male,1953-12-17,Indian,Jeddah,O-,Private (Tawuniya),Hypertension
+PAT0157,Majed,Al-Shamrani,Male,1991-12-31,Saudi,NEOM,A+,Military (GOSI),Obesity
+PAT0158,Haifa,Al-Saud,Female,1962-03-14,Saudi,Abha,B+,Military (GOSI),Kidney Disease
+PAT0159,Shatha,Al-Mutairi,Female,1947-11-12,Saudi,NEOM,A+,Military (GOSI),Diabetes & Hypertension
+PAT0160,Soha,Abdel-Fattah,Female,2005-07-13,Egyptian,Tabuk,O+,Private (Bupa),None
+PAT0161,Salman,Al-Qahtani,Male,2002-01-07,Saudi,Riyadh,AB+,Private (Medgulf),Asthma
+PAT0162,Shahd,Al-Dosari,Female,1982-09-02,Saudi,Riyadh,B+,Government (CCHI),Hypertension
+PAT0163,Vikram,Kumar,Male,1979-07-13,Indian,Riyadh,O+,Private (Tawuniya),Hypertension
+PAT0164,Hatem,Al-Momani,Male,1987-03-21,Jordanian,Khobar,B+,Private (Bupa),Asthma
+PAT0165,Jamal,Begum,Male,2009-07-28,Bangladeshi,Riyadh,AB+,Private (Medgulf),Thyroid Disorder
+PAT0166,Jawahir,Al-Balawi,Female,2013-09-22,Saudi,Abha,A+,Self-Pay,None
+PAT0167,Sara,Al-Sulami,Female,1988-09-27,Saudi,Abha,B+,Government (CCHI),None
+PAT0168,Mazen,Al-Zahrani,Male,1989-08-19,Saudi,Jeddah,A-,Private (Bupa),Thyroid Disorder
+PAT0169,Atheer,Al-Malki,Female,1992-07-14,Saudi,Khobar,O+,Military (GOSI),Heart Disease
+PAT0170,Soha,Hassan,Female,2006-02-03,Egyptian,Dammam,O+,Private (Medgulf),None
+PAT0171,Bilal,Al-Turki,Male,1995-06-02,Saudi,Jeddah,O+,Private (Bupa),None
+PAT0172,Nawal,Al-Tarawneh,Female,1954-11-20,Jordanian,Riyadh,O+,Private (Bupa),Diabetes & Hypertension
+PAT0173,Fatema,Patel,Female,1962-11-02,Indian,Madinah,A+,Private (Medgulf),None
+PAT0174,Mohammed,Al-Dawsari,Male,1960-07-13,Saudi,Riyadh,A-,Private (Tawuniya),Diabetes
+PAT0175,Reema,Al-Shehri,Female,1970-04-09,Saudi,Jeddah,B+,Government (CCHI),Diabetes
+PAT0176,Anita,Iqbal,Female,1949-01-17,Pakistani,Madinah,A+,Private (Medgulf),Diabetes
+PAT0177,Maryam,Al-Turki,Female,1982-10-08,Saudi,Makkah,O-,Private (Tawuniya),Diabetes & Hypertension
+PAT0178,Haya,Al-Johani,Female,1975-06-25,Saudi,Jeddah,B+,Private (Bupa),Kidney Disease
+PAT0179,Thuraya,Al-Zahrani,Female,1959-09-10,Saudi,Riyadh,A+,Private (Bupa),Cancer
+PAT0180,Tariq,Al-Ahmadi,Male,1982-02-17,Saudi,NEOM,B+,Self-Pay,Hypertension
+PAT0181,Reema,Al-Shehri,Female,1981-01-15,Saudi,Jeddah,O+,Government (CCHI),Diabetes
+PAT0182,Ali,Al-Rajhi,Male,1977-09-29,Saudi,Riyadh,A+,Government (CCHI),Hypertension
+PAT0183,Sanjay,Menon,Male,2017-05-01,Indian,Riyadh,A+,Private (Tawuniya),None
+PAT0184,Sana,Siddiqui,Female,1946-01-16,Pakistani,Riyadh,A+,Private (Bupa),Cancer
+PAT0185,Sameh,Abdel-Fattah,Male,1965-11-01,Egyptian,Riyadh,B+,Government (CCHI),Hypertension
+PAT0186,Dina,Al-Qahtani,Female,2009-01-27,Saudi,Madinah,B+,Private (Tawuniya),None
+PAT0187,Atheer,Al-Shahrani,Female,1973-01-09,Saudi,Tabuk,B+,Self-Pay,Obesity
+PAT0188,Nayef,Al-Harbi,Male,1959-07-01,Saudi,Riyadh,B+,Government (CCHI),Hypertension
+PAT0189,Bandar,Al-Buqami,Male,2003-09-01,Saudi,Makkah,B+,Government (CCHI),None
+PAT0190,Badr,Al-Anazi,Male,1961-10-21,Saudi,Madinah,AB+,Government (CCHI),None
+PAT0191,Nasser,Al-Otaibi,Male,1977-03-23,Saudi,Jeddah,A+,Self-Pay,Diabetes
+PAT0192,Mohammed,Al-Hazmi,Male,1985-04-03,Saudi,NEOM,O+,Government (CCHI),None
+PAT0193,Amit,Rahman,Male,2019-04-15,Bangladeshi,Riyadh,A+,Government (CCHI),None
+PAT0194,Nada,Al-Juhani,Female,1966-06-27,Saudi,Jeddah,AB+,Private (Tawuniya),Heart Disease
+PAT0195,Doaa,Al-Saqqaf,Female,1989-09-01,Yemeni,Khobar,O+,Self-Pay,None
+PAT0196,Khaled,Farouk,Male,1974-06-09,Egyptian,Makkah,O-,Military (GOSI),Obesity
+PAT0197,Khalid,Al-Yami,Male,1958-03-07,Saudi,Madinah,A+,Private (Tawuniya),Obesity
+PAT0198,Mohammed,Abdel-Fattah,Male,2016-07-31,Egyptian,Makkah,B+,Military (GOSI),Thyroid Disorder
+PAT0199,Ammar,Al-Dawsari,Male,1984-04-26,Saudi,NEOM,AB+,Private (Tawuniya),Obesity
+PAT0200,Wael,Al-Khaldi,Male,2001-01-24,Saudi,Dammam,A+,Private (Tawuniya),None
+PAT0201,Sana,Chowdhury,Female,1975-10-30,Bangladeshi,Khobar,O+,Private (Medgulf),Obesity
+PAT0202,Anas,Al-Rajhi,Male,1973-07-20,Saudi,Jeddah,B+,Private (Medgulf),Diabetes
+PAT0203,Imran,Reddy,Male,1989-07-14,Indian,Madinah,A+,Private (Medgulf),Diabetes
+PAT0204,Reshma,Pillai,Female,1961-03-24,Indian,Jeddah,O+,Private (Tawuniya),Heart Disease
+PAT0205,Rashid,Al-Qahtani,Male,1958-01-24,Saudi,Makkah,A+,Government (CCHI),Hypertension
+PAT0206,Tamara,Al-Buqami,Female,1946-08-28,Saudi,Riyadh,O+,Government (CCHI),Hypertension
+PAT0207,Khalid,Al-Qahtani,Male,1946-08-04,Saudi,Makkah,O+,Private (Tawuniya),Hypertension
+PAT0208,Reema,Al-Garni,Female,1961-06-18,Saudi,Riyadh,A-,Self-Pay,Hypertension
+PAT0209,Saeed,Al-Dossary,Male,1946-04-04,Saudi,Riyadh,O+,Private (Bupa),Diabetes
+PAT0210,Lamia,Al-Shehri,Female,2004-10-25,Saudi,Makkah,O-,Private (Medgulf),Asthma
+PAT0211,Abdulrahman,Al-Dossary,Male,1956-07-24,Saudi,Jeddah,B+,Private (Tawuniya),None
+PAT0212,Nesma,Salah,Female,2007-01-28,Egyptian,Dammam,A+,Government (CCHI),Asthma
+PAT0213,Wael,Al-Mutairi,Male,1986-04-23,Saudi,Makkah,O+,Military (GOSI),Cancer
+PAT0214,Nadeem,Gupta,Male,1988-04-09,Indian,Jeddah,AB-,Private (Tawuniya),Hypertension
+PAT0215,Salman,Al-Balawi,Male,1981-02-09,Saudi,Riyadh,O+,Government (CCHI),None
+PAT0216,Bandar,Al-Johani,Male,1988-03-04,Saudi,Riyadh,AB+,Military (GOSI),None
+PAT0217,Taslima,Reddy,Female,2004-11-26,Indian,Jeddah,A-,Government (CCHI),Obesity
+PAT0218,Farhan,Sharma,Male,1998-11-15,Indian,Jeddah,A-,Private (Tawuniya),None
+PAT0219,Anas,Al-Asiri,Male,2017-03-16,Saudi,Dammam,O+,Military (GOSI),None
+PAT0220,Nayef,Al-Tamimi,Male,1983-05-20,Saudi,Jeddah,O+,Private (Bupa),Diabetes & Hypertension
+PAT0221,Haneen,Al-Turki,Female,1971-08-18,Saudi,Riyadh,O+,Self-Pay,Diabetes
+PAT0222,Waleed,Al-Johani,Male,1992-01-19,Saudi,Riyadh,O+,Private (Bupa),Hypertension
+PAT0223,Samina,Ahmed,Female,2020-11-09,Pakistani,NEOM,B+,Private (Tawuniya),None
+PAT0224,Hassan,Al-Dawsari,Male,1995-06-19,Saudi,Riyadh,A+,Military (GOSI),None
+PAT0225,Mashael,Al-Dawsari,Female,1969-11-22,Saudi,Jeddah,O+,Private (Tawuniya),Diabetes
+PAT0226,Dalal,Al-Johani,Female,1960-04-16,Saudi,Madinah,O+,Private (Bupa),Diabetes
+PAT0227,Farhan,Gupta,Male,1971-09-17,Indian,Riyadh,A+,Private (Tawuniya),Hypertension
+PAT0228,Fatima,Al-Saqqaf,Female,1948-03-04,Yemeni,Riyadh,O+,Private (Tawuniya),Hypertension
+PAT0229,Munira,Al-Thubaiti,Female,2003-10-02,Saudi,Abha,O+,Private (Medgulf),None
+PAT0230,Mohammed,Ibrahim,Male,1967-08-25,Egyptian,Jeddah,B-,Military (GOSI),Diabetes
+PAT0231,Amina,Mostafa,Female,2020-09-13,Egyptian,Riyadh,O+,Government (CCHI),None
+PAT0232,Rania,Al-Shammari,Female,1999-05-16,Saudi,Madinah,O+,Government (CCHI),Thyroid Disorder
+PAT0233,Ghada,Al-Thubaiti,Female,1984-12-05,Saudi,Dammam,A+,Government (CCHI),None
+PAT0234,Hadeel,Al-Subaie,Female,1973-07-01,Saudi,Jeddah,B+,Private (Bupa),Diabetes
+PAT0235,Amina,Al-Momani,Female,2002-11-18,Jordanian,Dammam,A+,Private (Tawuniya),Asthma
+PAT0236,Sahar,Nassar,Female,1987-02-11,Syrian,Jeddah,A+,Private (Tawuniya),None
+PAT0237,Khulood,Al-Hazmi,Female,1984-10-25,Saudi,Tabuk,O+,Self-Pay,Asthma
+PAT0238,Badr,Al-Malki,Male,1964-08-11,Saudi,Jeddah,A+,Military (GOSI),Cancer
+PAT0239,Maryam,Al-Ahmadi,Female,1991-07-14,Saudi,Madinah,A+,Private (Medgulf),Diabetes
+PAT0240,Taslima,Qureshi,Female,1960-07-21,Pakistani,Khobar,A+,Private (Tawuniya),Hypertension
+PAT0241,Haya,Al-Dosari,Female,1975-12-16,Saudi,Jeddah,O+,Government (CCHI),Asthma
+PAT0242,Ibrahim,Al-Shammari,Male,1960-02-16,Saudi,Riyadh,AB-,Military (GOSI),Hypertension
+PAT0243,Khaled,Al-Dosari,Male,1994-06-13,Saudi,Dammam,O+,Government (CCHI),Asthma
+PAT0244,Carlo,Cruz,Male,1950-08-15,Filipino,Riyadh,O+,Private (Medgulf),Diabetes
+PAT0245,Zubair,Reddy,Male,1972-09-07,Indian,Riyadh,A+,Private (Medgulf),Hypertension
+PAT0246,Norah,Al-Bishi,Female,1955-10-23,Saudi,NEOM,O+,Military (GOSI),Heart Disease
+PAT0247,Bandar,Al-Dawsari,Male,1953-03-25,Saudi,Makkah,B+,Self-Pay,Hypertension
+PAT0248,Muhannad,Al-Mutairi,Male,1966-04-17,Saudi,Riyadh,B+,Private (Medgulf),Heart Disease
+PAT0249,Ammar,Al-Johani,Male,2014-03-04,Saudi,Dammam,O+,Private (Bupa),None
+PAT0250,Faisal,Al-Ruwaili,Male,2010-03-03,Saudi,Riyadh,O+,Military (GOSI),None
+PAT0251,Jamal,Sharma,Male,1965-12-07,Indian,Dammam,A+,Government (CCHI),Diabetes
+PAT0252,Bandar,Al-Shamrani,Male,1975-05-19,Saudi,Riyadh,A+,Government (CCHI),Hypertension
+PAT0253,Dina,Al-Khaldi,Female,1974-08-19,Saudi,Jeddah,O+,Government (CCHI),Diabetes
+PAT0254,Sana,Islam,Female,1955-02-27,Bangladeshi,Khobar,O+,Private (Medgulf),Obesity
+PAT0255,Ghada,Al-Otaibi,Female,1984-05-13,Saudi,Jeddah,AB-,Military (GOSI),Thyroid Disorder
+PAT0256,Lina,Al-Subaie,Female,1977-01-18,Saudi,Riyadh,A+,Self-Pay,Diabetes & Hypertension
+PAT0257,Nadeem,Begum,Male,2002-03-30,Bangladeshi,Dammam,AB+,Private (Tawuniya),None
+PAT0258,Reem,Al-Tamimi,Female,1979-04-01,Saudi,Khobar,AB-,Military (GOSI),Hypertension
+PAT0259,Ashraf,Naguib,Male,1964-03-06,Egyptian,Jeddah,O+,Private (Medgulf),Asthma
+PAT0260,Ali,Al-Anazi,Male,1946-01-12,Saudi,NEOM,O+,Private (Tawuniya),Diabetes
+PAT0261,Saleh,Al-Ahmadi,Male,1995-12-22,Saudi,NEOM,B+,Government (CCHI),Asthma
+PAT0262,Mashael,Al-Enazi,Female,1971-11-10,Saudi,Dammam,O+,Government (CCHI),Hypertension
+PAT0263,Jamal,Chowdhury,Male,1989-12-24,Bangladeshi,NEOM,O+,Military (GOSI),Asthma
+PAT0264,Zubair,Iqbal,Male,1981-09-27,Pakistani,Jeddah,A+,Private (Bupa),Diabetes
+PAT0265,Khaled,Al-Enazi,Male,1990-04-07,Saudi,Dammam,A+,Self-Pay,Diabetes & Hypertension
+PAT0266,Dana,Al-Qurashi,Female,1968-02-29,Saudi,Madinah,O+,Private (Tawuniya),Heart Disease
+PAT0267,Priya,Reddy,Female,1991-11-28,Indian,Riyadh,O+,Government (CCHI),Asthma
+PAT0268,Rafiq,Iqbal,Male,2000-05-28,Pakistani,Dammam,A+,Military (GOSI),Asthma
+PAT0269,Saad,Al-Ghamdi,Male,2015-06-11,Saudi,Makkah,B+,Private (Tawuniya),Asthma
+PAT0270,Rami,Nassar,Male,1972-08-17,Syrian,Madinah,A+,Private (Tawuniya),Diabetes & Hypertension
+PAT0271,Nada,Al-Mojil,Female,1992-06-11,Saudi,Jeddah,A+,Military (GOSI),None
+PAT0272,Anita,Mirza,Female,1994-01-16,Pakistani,Dammam,B+,Self-Pay,Asthma
+PAT0273,Reem,Al-Mojil,Female,1956-03-06,Saudi,Abha,O+,Self-Pay,Hypertension
+PAT0274,Shahd,Al-Qurashi,Female,2007-12-08,Saudi,Riyadh,O-,Self-Pay,None
+PAT0275,Fares,Al-Shammari,Male,2014-07-10,Saudi,Riyadh,B+,Private (Medgulf),Asthma
+PAT0276,Latifa,Al-Ahmadi,Female,2011-03-31,Saudi,Jeddah,A+,Military (GOSI),None
+PAT0277,Reshma,Miah,Female,1971-11-20,Bangladeshi,Riyadh,A+,Private (Bupa),Obesity
+PAT0278,Hassan,Al-Dawsari,Male,1998-08-10,Saudi,Dammam,O+,Private (Medgulf),Hypertension
+PAT0279,Najla,Al-Otaibi,Female,1949-06-25,Saudi,Makkah,A+,Private (Medgulf),Diabetes & Hypertension
+PAT0280,Kamal,Hossain,Male,2000-02-13,Bangladeshi,Madinah,B+,Private (Tawuniya),None
+PAT0281,Yousef,Al-Malki,Male,2019-04-28,Saudi,Riyadh,A+,Self-Pay,None
+PAT0282,Abdulaziz,Al-Ahmadi,Male,2022-04-02,Saudi,Khobar,O+,Private (Bupa),Diabetes
+PAT0283,Nasreen,Ahmed,Female,1960-11-01,Pakistani,Khobar,A+,Self-Pay,Diabetes & Hypertension
+PAT0284,Mansour,Al-Harbi,Male,1971-02-07,Saudi,Riyadh,AB-,Private (Bupa),Diabetes
+PAT0285,Najla,Al-Asiri,Female,1994-06-20,Saudi,Jeddah,A-,Private (Medgulf),Diabetes
+PAT0286,Rizwan,Patel,Male,1992-03-14,Indian,Dammam,B+,Private (Bupa),Asthma
+PAT0287,Rafael,Gonzales,Male,1964-04-09,Filipino,Jeddah,A-,Private (Tawuniya),Diabetes & Hypertension
+PAT0288,Amina,Abdel-Fattah,Female,1964-01-02,Egyptian,Riyadh,O+,Self-Pay,Diabetes & Hypertension
+PAT0289,Ibrahim,Al-Malki,Male,1957-09-18,Saudi,Jeddah,O+,Government (CCHI),Kidney Disease
+PAT0290,Abdullah,Al-Tamimi,Male,1989-02-17,Saudi,Madinah,A+,Military (GOSI),None
+PAT0291,Bushra,Al-Yami,Female,1962-01-20,Saudi,Dammam,B+,Military (GOSI),Heart Disease
+PAT0292,Atheer,Al-Dosari,Female,1967-09-28,Saudi,Riyadh,A-,Military (GOSI),Hypertension
+PAT0293,Dalal,Al-Dossary,Female,2002-02-26,Saudi,Jeddah,B+,Private (Tawuniya),None
+PAT0294,Nasreen,Hossain,Female,2009-09-06,Bangladeshi,Jeddah,B+,Private (Medgulf),None
+PAT0295,Wael,Ibrahim,Male,1983-08-10,Egyptian,Tabuk,AB+,Private (Tawuniya),Kidney Disease
+PAT0296,Taslima,Malik,Female,1965-05-26,Pakistani,Dammam,A+,Private (Medgulf),None
+PAT0297,Maryam,Al-Shammari,Female,2021-03-20,Saudi,Jeddah,O+,Military (GOSI),Thyroid Disorder
+PAT0298,Waleed,Al-Nasser,Male,2004-12-26,Saudi,Riyadh,O+,Military (GOSI),None
+PAT0299,Rayan,Al-Thubaiti,Male,2020-11-24,Saudi,Abha,A+,Private (Medgulf),None
+PAT0300,Sherif,Al-Momani,Male,2005-07-18,Jordanian,Jeddah,B+,Private (Bupa),None
+PAT0301,Anas,Al-Tamimi,Male,1992-05-12,Saudi,Jeddah,A+,Private (Tawuniya),Diabetes
+PAT0302,Ammar,Al-Hamdan,Male,1999-05-31,Saudi,Madinah,B+,Government (CCHI),Obesity
+PAT0303,Latifa,Al-Subaie,Female,1946-06-01,Saudi,Madinah,AB+,Government (CCHI),Diabetes
+PAT0304,Anas,Al-Hazmi,Male,1962-06-27,Saudi,Jeddah,A+,Private (Bupa),Diabetes
+PAT0305,Deepak,Chaudhry,Male,1984-06-24,Pakistani,Riyadh,A+,Private (Bupa),Obesity
+PAT0306,Noura,Al-Fayez,Female,2002-07-22,Saudi,Madinah,O+,Private (Tawuniya),None
+PAT0307,Saeed,Al-Shehri,Male,2018-05-06,Saudi,NEOM,O+,Private (Medgulf),Asthma
+PAT0308,Abdulaziz,Al-Ahmadi,Male,2003-04-29,Saudi,Dammam,A-,Government (CCHI),Thyroid Disorder
+PAT0309,Leen,Al-Garni,Female,2001-09-29,Saudi,Makkah,A+,Private (Tawuniya),Asthma
+PAT0310,Abdulaziz,Al-Otaibi,Male,1970-08-18,Saudi,Riyadh,B+,Private (Medgulf),Heart Disease
+PAT0311,Rashid,Al-Shamrani,Male,1996-04-04,Saudi,Makkah,B+,Private (Tawuniya),Diabetes
+PAT0312,Zara,Menon,Female,2020-06-24,Indian,Dammam,B+,Self-Pay,None
+PAT0313,Yasser,Al-Anazi,Male,1979-12-18,Saudi,Riyadh,A-,Military (GOSI),Thyroid Disorder
+PAT0314,Atheer,Al-Zahrani,Female,2002-06-17,Saudi,Makkah,A+,Private (Medgulf),Cancer
+PAT0315,Zara,Khan,Female,1991-08-07,Pakistani,Dammam,O-,Private (Medgulf),Asthma
+PAT0316,Lamia,Al-Johani,Female,1987-09-04,Saudi,Abha,O+,Self-Pay,None
+PAT0317,Noura,Al-Subaie,Female,1957-09-14,Saudi,Dammam,O+,Self-Pay,Cancer
+PAT0318,Joud,Al-Asiri,Female,1985-02-05,Saudi,Abha,AB-,Private (Tawuniya),None
+PAT0319,Ziyad,Al-Qahtani,Male,1990-01-14,Saudi,Madinah,B+,Military (GOSI),Diabetes & Hypertension
+PAT0320,Sanjay,Verma,Male,1957-04-24,Indian,Jeddah,A+,Private (Bupa),None
+PAT0321,Yasmin,Farouk,Female,1996-09-15,Egyptian,Jeddah,O+,Private (Bupa),None
+PAT0322,Rahaf,Al-Shamrani,Female,1999-07-08,Saudi,Madinah,O+,Private (Bupa),None
+PAT0323,Nasser,Al-Fayez,Male,1984-08-29,Saudi,Riyadh,A+,Private (Medgulf),Thyroid Disorder
+PAT0324,Dina,Al-Subaie,Female,1964-10-09,Saudi,Tabuk,O+,Private (Medgulf),Hypertension
+PAT0325,Reema,Al-Khaldi,Female,1972-03-18,Saudi,Makkah,A+,Government (CCHI),None
+PAT0326,Waleed,Al-Mutairi,Male,1985-06-02,Saudi,Khobar,O-,Military (GOSI),None
+PAT0327,Samina,Iqbal,Female,1977-11-09,Pakistani,Madinah,B+,Private (Medgulf),Diabetes & Hypertension
+PAT0328,Tarek,Naguib,Male,1946-04-04,Egyptian,Madinah,AB+,Private (Tawuniya),Thyroid Disorder
+PAT0329,Abdulaziz,Al-Enazi,Male,1966-10-16,Saudi,Abha,A+,Private (Bupa),Diabetes
+PAT0330,Ghada,Al-Hazmi,Female,1957-03-09,Saudi,Makkah,B-,Government (CCHI),Hypertension
+PAT0331,Soha,Salah,Female,1987-06-19,Egyptian,Khobar,O+,Private (Bupa),Asthma
+PAT0332,Saud,Al-Fayez,Male,1947-12-16,Saudi,Riyadh,B+,Government (CCHI),Diabetes
+PAT0333,Lakshmi,Butt,Female,2022-09-05,Pakistani,Khobar,A+,Private (Bupa),None
+PAT0334,Hamad,Al-Dosari,Male,1966-05-06,Saudi,Abha,O+,Private (Medgulf),Diabetes & Hypertension
+PAT0335,Saleh,Al-Ghamdi,Male,1995-04-28,Saudi,Jeddah,O+,Private (Medgulf),None
+PAT0336,Saad,Al-Subaie,Male,1971-11-28,Saudi,Riyadh,A+,Private (Bupa),Asthma
+PAT0337,Nada,Al-Omari,Female,1990-02-19,Saudi,NEOM,O+,Military (GOSI),None
+PAT0338,Shatha,Al-Nasser,Female,1979-04-03,Saudi,Dammam,A-,Government (CCHI),Hypertension
+PAT0339,Lama,Al-Ahmadi,Female,1957-06-24,Saudi,Riyadh,AB+,Private (Tawuniya),Diabetes & Hypertension
+PAT0340,Tariq,Al-Shehri,Male,1959-12-22,Saudi,Makkah,A+,Private (Bupa),Asthma
+PAT0341,Maryam,Al-Tamimi,Female,1997-06-05,Saudi,Jeddah,AB-,Private (Tawuniya),Thyroid Disorder
+PAT0342,Ali,Al-Dossary,Male,2010-08-25,Saudi,Makkah,B+,Self-Pay,None
+PAT0343,Ahmad,Hassan,Male,2014-12-26,Egyptian,Jeddah,A+,Private (Medgulf),None
+PAT0344,Tamara,Al-Mojil,Female,1992-08-01,Saudi,Jeddah,A+,Military (GOSI),Obesity
+PAT0345,Yasser,Al-Dawsari,Male,2013-01-13,Saudi,Riyadh,A+,Private (Tawuniya),Asthma
+PAT0346,Badriya,Al-Garni,Female,2013-03-11,Saudi,Dammam,A-,Private (Tawuniya),None
+PAT0347,Anita,Karim,Female,1964-01-23,Bangladeshi,Jeddah,A+,Private (Medgulf),Heart Disease
+PAT0348,Maryam,Al-Juhani,Female,1989-07-16,Saudi,Jeddah,A+,Private (Bupa),Thyroid Disorder
+PAT0349,Shahd,Al-Johani,Female,1990-10-17,Saudi,Makkah,B+,Military (GOSI),Asthma
+PAT0350,Hamza,Al-Thubaiti,Male,2004-01-14,Saudi,NEOM,A+,Government (CCHI),None
+PAT0351,Tamer,Darwish,Male,1973-07-05,Syrian,Jeddah,A+,Private (Tawuniya),Asthma
+PAT0352,Sharmin,Mirza,Female,1988-12-04,Pakistani,Jeddah,O+,Self-Pay,Obesity
+PAT0353,Angelo,Garcia,Male,1991-06-06,Filipino,Tabuk,O+,Private (Bupa),None
+PAT0354,Waseem,Verma,Male,1964-06-29,Indian,Abha,A+,Private (Bupa),Diabetes
+PAT0355,Priya,Qureshi,Female,1949-04-27,Pakistani,Jeddah,O+,Government (CCHI),Cancer
+PAT0356,Lamia,Al-Dosari,Female,1960-05-10,Saudi,Jeddah,O+,Self-Pay,Asthma
+PAT0357,Ravi,Karim,Male,1981-02-22,Bangladeshi,Tabuk,O+,Self-Pay,Hypertension
+PAT0358,Yousef,Al-Shehri,Male,1965-02-17,Saudi,Makkah,O+,Private (Medgulf),Diabetes & Hypertension
+PAT0359,Huda,Al-Ghamdi,Female,1948-06-06,Saudi,Dammam,B+,Private (Bupa),None
+PAT0360,Samira,Hassan,Female,1965-10-02,Egyptian,Riyadh,B+,Private (Tawuniya),Hypertension
+PAT0361,Amr,Salah,Male,1969-08-12,Egyptian,Tabuk,A+,Private (Medgulf),Diabetes
+PAT0362,Shatha,Al-Nasser,Female,1981-04-15,Saudi,Riyadh,A+,Military (GOSI),Hypertension
+PAT0363,Ashraf,Farouk,Male,1955-11-01,Egyptian,Abha,B+,Self-Pay,Diabetes & Hypertension
+PAT0364,Sultan,Al-Balawi,Male,1959-06-20,Saudi,Khobar,A+,Military (GOSI),None
+PAT0365,Anas,Al-Shehri,Male,1994-08-12,Saudi,NEOM,A+,Private (Tawuniya),Asthma
+PAT0366,Bushra,Al-Qahtani,Female,1980-03-07,Saudi,Abha,O-,Self-Pay,Hypertension
+PAT0367,Maha,Al-Otaibi,Female,2002-05-26,Saudi,Jeddah,O+,Government (CCHI),Asthma
+PAT0368,Arun,Sharma,Male,2005-04-12,Indian,Abha,A-,Self-Pay,Hypertension
+PAT0369,Majed,Al-Hamdan,Male,1968-07-07,Saudi,Madinah,A+,Private (Tawuniya),Hypertension
+PAT0370,Waleed,Al-Fayez,Male,1967-11-17,Saudi,Riyadh,A-,Self-Pay,None
+PAT0371,Asma,Al-Saleh,Female,1989-03-10,Saudi,Makkah,O+,Private (Bupa),Diabetes
+PAT0372,Lama,Al-Hamdan,Female,1966-12-10,Saudi,Dammam,O+,Government (CCHI),Heart Disease
+PAT0373,Deepa,Verma,Female,1953-06-27,Indian,Jeddah,A-,Private (Bupa),Diabetes & Hypertension
+PAT0374,Hamza,Al-Enazi,Male,2004-05-14,Saudi,Dammam,O+,Government (CCHI),None
+PAT0375,Haitham,Al-Saleh,Male,1970-03-31,Saudi,Madinah,O+,Military (GOSI),None
+PAT0376,Adel,Al-Shammari,Male,1958-11-11,Saudi,Riyadh,O-,Government (CCHI),Heart Disease
+PAT0377,Tamer,Al-Fayez,Male,1994-02-12,Saudi,Riyadh,O+,Military (GOSI),None
+PAT0378,Maryam,Al-Zahrani,Female,1970-02-13,Saudi,Tabuk,A-,Military (GOSI),Cancer
+PAT0379,Imran,Nair,Male,1971-08-25,Indian,Riyadh,O+,Private (Bupa),Kidney Disease
+PAT0380,Yara,Al-Khaldi,Female,1954-08-14,Saudi,Jeddah,A+,Private (Medgulf),Asthma
+PAT0381,Sana,Malik,Female,1996-12-29,Pakistani,Jeddah,O+,Self-Pay,Cancer
+PAT0382,Bilal,Al-Johani,Male,1979-03-09,Saudi,Makkah,O+,Military (GOSI),Diabetes & Hypertension
+PAT0383,Mishaal,Al-Ahmadi,Male,1975-03-18,Saudi,Makkah,O-,Government (CCHI),Hypertension
+PAT0384,Arun,Singh,Male,1975-03-07,Indian,Khobar,A+,Private (Medgulf),None
+PAT0385,Hadeel,Al-Ghamdi,Female,2020-01-17,Saudi,Khobar,A+,Government (CCHI),Asthma
+PAT0386,Nasreen,Uddin,Female,1994-06-12,Bangladeshi,Tabuk,A+,Private (Bupa),None
+PAT0387,Sherif,Farouk,Male,1994-01-23,Egyptian,Riyadh,B+,Self-Pay,Diabetes
+PAT0388,Maryam,Al-Otaibi,Female,1956-03-18,Saudi,Makkah,O+,Private (Tawuniya),Diabetes
+PAT0389,Latifa,Al-Ruwaili,Female,1978-12-31,Saudi,Madinah,O+,Private (Tawuniya),Hypertension
+PAT0390,Saad,Al-Rajhi,Male,1968-11-15,Saudi,Jeddah,A+,Private (Medgulf),Obesity
+PAT0391,Taslima,Qureshi,Female,1985-07-29,Pakistani,Riyadh,A+,Private (Tawuniya),Diabetes & Hypertension
+PAT0392,Layla,Al-Turki,Female,1968-06-17,Saudi,Madinah,O+,Government (CCHI),Obesity
+PAT0393,Shahd,Al-Hamdan,Female,2016-05-15,Saudi,Dammam,O+,Government (CCHI),None
+PAT0394,Majed,Al-Hamdan,Male,1995-01-27,Saudi,Madinah,A+,Government (CCHI),None
+PAT0395,Shahd,Al-Saud,Female,1954-08-06,Saudi,Riyadh,A-,Government (CCHI),Diabetes & Hypertension
+PAT0396,Hatem,Ibrahim,Male,1997-07-17,Egyptian,Dammam,O+,Private (Bupa),None
+PAT0397,Rahaf,Al-Juhani,Female,2003-08-30,Saudi,Madinah,O-,Government (CCHI),Diabetes
+PAT0398,Bushra,Al-Saleh,Female,1967-11-15,Saudi,Dammam,A+,Private (Bupa),Diabetes
+PAT0399,Arun,Siddiqui,Male,1989-10-01,Pakistani,NEOM,B+,Private (Bupa),None
+PAT0400,Alaa,Idris,Male,1981-05-04,Sudanese,Abha,A+,Private (Tawuniya),Heart Disease
+PAT0401,Fatema,Ahmed,Female,1966-11-24,Pakistani,Riyadh,A-,Government (CCHI),None
+PAT0402,Ahmad,Al-Hazmi,Male,1999-11-10,Saudi,Dammam,AB+,Military (GOSI),Diabetes & Hypertension
+PAT0403,Rahaf,Al-Shehri,Female,1991-11-09,Saudi,Tabuk,AB+,Private (Bupa),Obesity
+PAT0404,Saad,Al-Ghamdi,Male,1976-08-25,Saudi,Makkah,O+,Military (GOSI),Heart Disease
+PAT0405,Huda,Al-Thubaiti,Female,2019-07-07,Saudi,NEOM,O+,Government (CCHI),None
+PAT0406,Mashael,Al-Anazi,Female,1975-11-20,Saudi,Riyadh,B+,Government (CCHI),None
+PAT0407,Rizwan,Sharma,Male,1958-02-02,Indian,Makkah,A+,Private (Tawuniya),Diabetes
+PAT0408,Fares,Al-Saleh,Male,1957-12-04,Saudi,Riyadh,B+,Private (Tawuniya),Diabetes & Hypertension
+PAT0409,Lama,Al-Rashid,Female,2018-06-07,Saudi,Riyadh,A+,Private (Bupa),None
+PAT0410,Jasmine,Lopez,Female,1978-10-15,Filipino,Khobar,O+,Private (Medgulf),None
+PAT0411,Hamza,Al-Rashid,Male,1995-08-19,Saudi,Riyadh,O+,Self-Pay,Hypertension
+PAT0412,Fatema,Gupta,Female,1978-07-15,Indian,Makkah,A+,Private (Bupa),Hypertension
+PAT0413,Rayan,Al-Dossary,Male,1988-07-22,Saudi,Riyadh,B+,Private (Tawuniya),Diabetes & Hypertension
+PAT0414,Arwa,Al-Fayez,Female,1966-10-28,Saudi,Jeddah,O+,Private (Tawuniya),Hypertension
+PAT0415,Mishaal,Al-Ruwaili,Male,1976-07-21,Saudi,Jeddah,A+,Private (Tawuniya),Heart Disease
+PAT0416,Rania,Al-Otaibi,Female,2021-05-22,Saudi,Jeddah,A-,Private (Medgulf),None
+PAT0417,Salman,Al-Enazi,Male,1946-01-27,Saudi,Tabuk,O+,Government (CCHI),Hypertension
+PAT0418,Wafa,Al-Asiri,Female,2004-08-29,Saudi,Jeddah,B+,Private (Tawuniya),Asthma
+PAT0419,Atheer,Al-Hamdan,Female,2004-04-18,Saudi,Riyadh,O+,Government (CCHI),None
+PAT0420,Bilal,Al-Qurashi,Male,1979-03-21,Saudi,Tabuk,O-,Government (CCHI),Thyroid Disorder
+PAT0421,Dana,Al-Qahtani,Female,1993-08-05,Saudi,Khobar,O+,Self-Pay,Diabetes
+PAT0422,Arwa,Al-Garni,Female,1980-05-08,Saudi,Makkah,A+,Self-Pay,None
+PAT0423,Priya,Patel,Female,1945-11-20,Indian,Tabuk,O-,Private (Medgulf),Hypertension
+PAT0424,Thuraya,Al-Sulami,Female,1978-10-06,Saudi,Makkah,B+,Private (Bupa),Obesity
+PAT0425,Turki,Al-Juhani,Male,1975-12-04,Saudi,Riyadh,A+,Private (Tawuniya),Diabetes & Hypertension
+PAT0426,Nasreen,Siddiqui,Female,2023-01-12,Pakistani,Dammam,O+,Private (Tawuniya),Hypertension
+PAT0427,Abdullah,Al-Zahrani,Male,1954-10-30,Saudi,Riyadh,O+,Self-Pay,Hypertension
+PAT0428,Lamia,Al-Fayez,Female,1989-06-04,Saudi,Dammam,A+,Government (CCHI),None
+PAT0429,Muhannad,Al-Garni,Male,1964-12-26,Saudi,Madinah,O+,Government (CCHI),Diabetes
+PAT0430,Sharmin,Chaudhry,Female,2000-09-08,Pakistani,Jeddah,A+,Government (CCHI),None
+PAT0431,Jasmine,Gonzales,Female,1999-05-27,Filipino,Riyadh,B+,Private (Bupa),Diabetes
+PAT0432,Salman,Al-Ruwaili,Male,1975-01-13,Saudi,Riyadh,AB+,Government (CCHI),Diabetes
+PAT0433,Dalia,Bawazir,Female,2000-06-27,Yemeni,Tabuk,O+,Private (Bupa),Hypertension
+PAT0434,Kamal,Sultana,Male,2016-02-08,Bangladeshi,Jeddah,A+,Private (Tawuniya),Thyroid Disorder
+PAT0435,Bandar,Al-Yami,Male,1947-07-14,Saudi,Riyadh,A+,Private (Medgulf),Kidney Disease
+PAT0436,Maryam,Al-Dosari,Female,1989-04-30,Saudi,Riyadh,O+,Private (Medgulf),Diabetes
+PAT0437,Samina,Sultana,Female,2009-01-01,Bangladeshi,Riyadh,B+,Self-Pay,None
+PAT0438,Nawaf,Al-Omari,Male,2014-07-22,Saudi,Makkah,A+,Military (GOSI),None
+PAT0439,Adel,Al-Dossary,Male,1994-11-17,Saudi,Riyadh,A+,Private (Tawuniya),Thyroid Disorder
+PAT0440,Nayef,Al-Malki,Male,1987-10-28,Saudi,Riyadh,O+,Government (CCHI),None
+PAT0441,Deepa,Kumar,Female,1996-01-02,Indian,Tabuk,O+,Private (Medgulf),None
+PAT0442,Fahad,Al-Rashid,Male,2016-08-28,Saudi,Dammam,B+,Private (Tawuniya),Asthma
+PAT0443,Basma,Al-Rashid,Female,2014-10-27,Saudi,Makkah,AB+,Government (CCHI),None
+PAT0444,Faisal,Al-Mojil,Male,1945-05-01,Saudi,NEOM,AB+,Military (GOSI),Diabetes
+PAT0445,Layla,Al-Turki,Female,1981-05-11,Saudi,Riyadh,A-,Private (Tawuniya),None
+PAT0446,Dalia,Salah,Female,1954-12-09,Egyptian,Khobar,AB+,Private (Medgulf),Diabetes & Hypertension
+PAT0447,Ghalya,Al-Shammari,Female,1954-08-28,Saudi,Riyadh,O+,Government (CCHI),Asthma
+PAT0448,Abdulaziz,Al-Ruwaili,Male,1999-10-18,Saudi,Riyadh,B+,Military (GOSI),Diabetes
+PAT0449,Ghada,Al-Shahrani,Female,1964-01-19,Saudi,Dammam,A+,Private (Tawuniya),Hypertension
+PAT0450,Joud,Al-Zahrani,Female,1990-02-15,Saudi,Madinah,A+,Military (GOSI),None
+PAT0451,Farhan,Qureshi,Male,2003-05-08,Pakistani,Riyadh,B+,Private (Tawuniya),Asthma
+PAT0452,Maha,Al-Anazi,Female,1948-06-23,Saudi,Riyadh,B+,Government (CCHI),Heart Disease
+PAT0453,Sanjay,Karim,Male,2006-10-01,Bangladeshi,Riyadh,O+,Military (GOSI),None
+PAT0454,Bandar,Al-Zahrani,Male,2003-08-01,Saudi,Dammam,B+,Private (Bupa),None
+PAT0455,Salma,Al-Dosari,Female,1995-02-09,Saudi,Jeddah,O+,Private (Medgulf),None
+PAT0456,Yousef,Al-Qurashi,Male,1972-10-12,Saudi,Madinah,A-,Military (GOSI),Diabetes & Hypertension
+PAT0457,Karim,Naguib,Male,1974-06-17,Egyptian,Madinah,B+,Private (Tawuniya),Hypertension
+PAT0458,Maryam,Al-Ruwaili,Female,1960-07-26,Saudi,Khobar,B+,Government (CCHI),Cancer
+PAT0459,Rizwan,Iqbal,Male,1982-01-31,Pakistani,Tabuk,B-,Private (Tawuniya),Diabetes
+PAT0460,Muhannad,Al-Dossary,Male,1955-09-24,Saudi,Makkah,O+,Government (CCHI),Kidney Disease
+PAT0461,Abeer,Al-Faifi,Female,2004-04-06,Saudi,Jeddah,O+,Private (Bupa),None
+PAT0462,Mashael,Al-Otaibi,Female,1953-06-28,Saudi,Riyadh,O+,Private (Medgulf),Obesity
+PAT0463,Dalia,Mansour,Female,1986-01-23,Egyptian,Riyadh,O+,Private (Bupa),Hypertension
+PAT0464,Waleed,Al-Hazmi,Male,1984-06-03,Saudi,Jeddah,O-,Government (CCHI),Diabetes
+PAT0465,Reem,Al-Dawsari,Female,1949-02-25,Saudi,Riyadh,B+,Government (CCHI),Diabetes & Hypertension
+PAT0466,Dalia,Osman,Female,1950-10-14,Sudanese,Jeddah,A-,Self-Pay,None
+PAT0467,Sunita,Menon,Female,2001-09-28,Indian,Riyadh,A-,Private (Medgulf),None
+PAT0468,Salman,Al-Anazi,Male,1991-06-17,Saudi,Jeddah,A+,Private (Tawuniya),Diabetes
+PAT0469,Saleh,Al-Juhani,Male,1970-06-23,Saudi,Tabuk,A+,Private (Bupa),Hypertension
+PAT0470,Huda,Al-Bishi,Female,1998-05-10,Saudi,Riyadh,A+,Private (Medgulf),None
+PAT0471,Nasreen,Sharma,Female,1953-09-10,Indian,Jeddah,B+,Private (Medgulf),Cancer
+PAT0472,Faisal,Al-Fayez,Male,1950-01-23,Saudi,Dammam,O+,Private (Bupa),Diabetes & Hypertension
+PAT0473,Dana,Al-Rajhi,Female,1991-09-01,Saudi,Dammam,A-,Self-Pay,None
+PAT0474,Waleed,Al-Balawi,Male,2011-04-08,Saudi,Tabuk,O+,Private (Tawuniya),Asthma
+PAT0475,Bassem,Hassan,Male,1971-10-18,Egyptian,Khobar,AB-,Private (Tawuniya),Diabetes
+PAT0476,Khaled,Al-Fayez,Male,1950-12-31,Saudi,Riyadh,O+,Self-Pay,Kidney Disease
+PAT0477,Eman,Mohamed,Female,1964-03-05,Egyptian,Jeddah,AB-,Self-Pay,Diabetes & Hypertension
+PAT0478,Wael,Al-Nasser,Male,1994-12-18,Saudi,Riyadh,A+,Government (CCHI),Asthma
+PAT0479,Cherry,Cruz,Female,2014-12-23,Filipino,NEOM,O+,Private (Tawuniya),Asthma
+PAT0480,Huda,Al-Sulami,Female,2018-01-13,Saudi,Riyadh,O-,Self-Pay,None
+PAT0481,Rajesh,Patel,Male,2000-06-27,Indian,Jeddah,O+,Self-Pay,Obesity
+PAT0482,Noura,Al-Malki,Female,2002-11-16,Saudi,Madinah,B+,Private (Tawuniya),Heart Disease
+PAT0483,Turki,Al-Nasser,Male,1965-06-06,Saudi,Khobar,A+,Government (CCHI),Hypertension
+PAT0484,Mazen,Al-Subaie,Male,1974-11-05,Saudi,Makkah,AB+,Government (CCHI),Diabetes
+PAT0485,Huda,Al-Dossary,Female,1988-08-07,Saudi,NEOM,A+,Private (Tawuniya),Thyroid Disorder
+PAT0486,Asma,Al-Johani,Female,1974-10-14,Saudi,Jeddah,A-,Government (CCHI),Diabetes & Hypertension
+PAT0487,Haneen,Al-Fayez,Female,1990-12-12,Saudi,Jeddah,A+,Government (CCHI),None
+PAT0488,Shatha,Al-Ahmadi,Female,1976-05-31,Saudi,Riyadh,O+,Private (Tawuniya),Diabetes
+PAT0489,Taslima,Siddiqui,Female,2021-02-24,Pakistani,Madinah,B+,Private (Medgulf),None
+PAT0490,Salma,Al-Dossary,Female,1971-03-13,Saudi,NEOM,O+,Government (CCHI),Hypertension
+PAT0491,Rayan,Al-Ruwaili,Male,1990-07-05,Saudi,Khobar,O+,Private (Tawuniya),None
+PAT0492,Taslima,Rahman,Female,1967-02-17,Bangladeshi,Riyadh,A-,Private (Tawuniya),Asthma
+PAT0493,Sanjay,Singh,Male,1976-02-04,Indian,Abha,O+,Private (Medgulf),Kidney Disease
+PAT0494,Talal,Al-Ruwaili,Male,1981-02-25,Saudi,Tabuk,B+,Government (CCHI),None
+PAT0495,Omar,Al-Subaie,Male,2014-07-31,Saudi,Dammam,O+,Military (GOSI),None
+PAT0496,Waleed,Al-Shamrani,Male,1981-12-07,Saudi,Jeddah,O+,Military (GOSI),Asthma
+PAT0497,Amira,Al-Bishi,Female,2005-10-19,Saudi,Jeddah,O+,Military (GOSI),Diabetes
+PAT0498,Jawahir,Al-Shehri,Female,1954-10-30,Saudi,Tabuk,A+,Government (CCHI),Diabetes & Hypertension
+PAT0499,Saad,Al-Bishi,Male,1969-08-16,Saudi,NEOM,O+,Military (GOSI),Hypertension
+PAT0500,Rania,Al-Rashid,Female,1987-07-08,Saudi,Jeddah,B+,Private (Medgulf),Asthma
