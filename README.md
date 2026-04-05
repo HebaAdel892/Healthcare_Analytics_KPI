@@ -22,9 +22,9 @@ healthcare transformation goals.
 ## Healthcare KPIs Tracked
 | KPI | Value | Benchmark | Status |
 |-----|-------|-----------|--------|
-| Average Length of Stay | 7.97 days | 4-5 days | Good |
-| Bed Occupancy Rate | 78.7% | 80-85% | Optimal |
-| 30-Day Readmission Rate | 14.9% | <10% | Good |
+| Average Length of Stay | 7.97 days | 4-5 days | High |
+| Bed Occupancy Rate | 78.7% | 80-85% | Low |
+| 30-Day Readmission Rate | 14.9% | <10% | High |
 | Patient Satisfaction | 3.86/5 | >4.0 | Good |
 
 ## Dashboard Preview
@@ -38,10 +38,12 @@ healthcare transformation goals.
 ```
 Saudi-Healthcare-Analytics-Dashboard/
     data/           # 10 CSV datasets
-    charts/         # Python visualizations
+    charts/         # 8 Python visualizations
     Healthcare_Analysis.ipynb
     Healthcare_KPI_Dashboard.xlsx
     Healthcare_Analytics_Report.xlsx
+    Healthcare_Analytics_Dashboard.pbix
+    Healthcare_Analytics_Dashboard.pdf
 ```
 
 ## Dataset Description
